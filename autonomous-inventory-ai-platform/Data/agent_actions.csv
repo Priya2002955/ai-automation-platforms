@@ -1,0 +1,51 @@
+store_id,product,decision,action,approval_status
+1,Chicken,Planned Reorder,Schedule reorder for 163 units of Chicken,Not required
+1,Buns,No action,No action,Not required
+1,Fries,No action,No action,Not required
+1,Oil,No action,No action,Not required
+1,Sauce,Immediate Reorder,Create urgent purchase order for 160 units of Sauce,Not required
+2,Chicken,No action,No action,Not required
+2,Buns,No action,No action,Not required
+2,Fries,No action,No action,Not required
+2,Oil,No action,No action,Not required
+2,Sauce,No action,No action,Not required
+3,Chicken,No action,No action,Not required
+3,Buns,No action,No action,Not required
+3,Fries,No action,No action,Not required
+3,Oil,Immediate Reorder,Create urgent purchase order for 48 units of Oil,Not required
+3,Sauce,No action,No action,Not required
+4,Chicken,Immediate Reorder,Create urgent purchase order for 158 units of Chicken,Not required
+4,Buns,No action,No action,Not required
+4,Fries,No action,No action,Not required
+4,Oil,No action,No action,Not required
+4,Sauce,No action,No action,Not required
+5,Chicken,No action,No action,Not required
+5,Buns,No action,No action,Not required
+5,Fries,No action,No action,Not required
+5,Oil,No action,No action,Not required
+5,Sauce,Immediate Reorder,Create urgent purchase order for 93 units of Sauce,Not required
+6,Chicken,Planned Reorder,Schedule reorder for 113 units of Chicken,Not required
+6,Buns,No action,No action,Not required
+6,Fries,No action,No action,Not required
+6,Oil,Immediate Reorder,Create urgent purchase order for 184 units of Oil,Not required
+6,Sauce,Immediate Reorder,Create urgent purchase order for 135 units of Sauce,Not required
+7,Chicken,Immediate Reorder,Create urgent purchase order for 160 units of Chicken,Not required
+7,Buns,No action,No action,Not required
+7,Fries,No action,No action,Not required
+7,Oil,Planned Reorder,Schedule reorder for 196 units of Oil,Not required
+7,Sauce,No action,No action,Not required
+8,Chicken,No action,No action,Not required
+8,Buns,Planned Reorder,Schedule reorder for 132 units of Buns,Not required
+8,Fries,No action,No action,Not required
+8,Oil,No action,No action,Not required
+8,Sauce,Immediate Reorder,Create urgent purchase order for 48 units of Sauce,Not required
+9,Chicken,No action,No action,Not required
+9,Buns,No action,No action,Not required
+9,Fries,Planned Reorder,Schedule reorder for 133 units of Fries,Not required
+9,Oil,No action,No action,Not required
+9,Sauce,No action,No action,Not required
+10,Chicken,No action,No action,Not required
+10,Buns,No action,No action,Not required
+10,Fries,No action,No action,Not required
+10,Oil,No action,No action,Not required
+10,Sauce,No action,No action,Not required

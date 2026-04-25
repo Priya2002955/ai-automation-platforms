@@ -1,0 +1,31 @@
+Inventory Reorder Policy
+
+Stores must monitor current stock levels daily.
+
+If current stock is below the reorder threshold, the item should be flagged as Low Stock.
+
+If projected stockout happens before supplier lead time, the item should be marked as Stockout Risk.
+
+Stockout Risk items should be treated as high priority.
+
+Low Stock items should be planned for reorder.
+
+Overstock items should not be reordered until demand is reviewed.
+
+Manager approval is required when reorder quantity is greater than 200 units.
+
+Urgent supplier notification is required for high priority stockout risks.
+
+Supplier lead time must be considered before placing a reorder.
+
+If supplier lead time is longer than days until stockout, the system should create an urgent alert.
+
+If reorder quantity is below 200 units, automatic reorder can be created without manager approval.
+
+If reorder quantity is above 200 units, the request should go to manager approval.
+
+If inventory mismatch is detected between system stock and physical stock, an exception ticket should be created.
+
+The operations team should review high priority inventory alerts daily.
+
+The goal is to reduce stockouts, avoid overstocking, improve inventory accuracy, and reduce manual inventory work.

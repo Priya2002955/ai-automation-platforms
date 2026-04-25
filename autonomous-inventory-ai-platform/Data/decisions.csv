@@ -1,0 +1,51 @@
+store_id,product,risk_type,forecast_7_days,current_stock,decision,priority,recommended_quantity
+1,Chicken,Low Stock,229.6,67,Planned Reorder,Medium,163
+1,Buns,Normal,202.07,139,No action,Low,0
+1,Fries,Normal,234.27,287,No action,Low,0
+1,Oil,Normal,197.4,282,No action,Low,0
+1,Sauce,Stockout Risk,218.4,58,Immediate Reorder,High,160
+2,Chicken,Normal,222.83,215,No action,Low,0
+2,Buns,Normal,261.8,248,No action,Low,0
+2,Fries,Normal,224.7,103,No action,Low,0
+2,Oil,Normal,226.1,256,No action,Low,0
+2,Sauce,Normal,219.33,268,No action,Low,0
+3,Chicken,Normal,256.9,166,No action,Low,0
+3,Buns,Normal,227.27,277,No action,Low,0
+3,Fries,Normal,273.0,186,No action,Low,0
+3,Oil,Stockout Risk,216.53,169,Immediate Reorder,High,48
+3,Sauce,Normal,256.9,189,No action,Low,0
+4,Chicken,Stockout Risk,231.23,73,Immediate Reorder,High,158
+4,Buns,Normal,189.47,148,No action,Low,0
+4,Fries,Normal,220.03,124,No action,Low,0
+4,Oil,Normal,247.8,234,No action,Low,0
+4,Sauce,Normal,209.77,265,No action,Low,0
+5,Chicken,Normal,211.63,286,No action,Low,0
+5,Buns,Normal,242.2,296,No action,Low,0
+5,Fries,Normal,231.0,95,No action,Low,0
+5,Oil,Normal,233.57,209,No action,Low,0
+5,Sauce,Stockout Risk,223.77,131,Immediate Reorder,High,93
+6,Chicken,Low Stock,217.7,105,Planned Reorder,Medium,113
+6,Buns,Normal,220.97,137,No action,Low,0
+6,Fries,Normal,234.5,294,No action,Low,0
+6,Oil,Stockout Risk,245.7,62,Immediate Reorder,High,184
+6,Sauce,Stockout Risk,228.9,94,Immediate Reorder,High,135
+7,Chicken,Stockout Risk,234.5,75,Immediate Reorder,High,160
+7,Buns,Normal,247.33,157,No action,Low,0
+7,Fries,Normal,222.83,225,No action,Low,0
+7,Oil,Low Stock,255.27,59,Planned Reorder,Medium,196
+7,Sauce,Normal,238.0,250,No action,Low,0
+8,Chicken,Normal,268.57,262,No action,Low,0
+8,Buns,Low Stock,224.7,93,Planned Reorder,Medium,132
+8,Fries,Normal,224.7,150,No action,Low,0
+8,Oil,Normal,244.3,268,No action,Low,0
+8,Sauce,Stockout Risk,212.1,164,Immediate Reorder,High,48
+9,Chicken,Normal,259.7,236,No action,Low,0
+9,Buns,Normal,247.8,229,No action,Low,0
+9,Fries,Low Stock,210.0,77,Planned Reorder,Medium,133
+9,Oil,Normal,237.07,257,No action,Low,0
+9,Sauce,Normal,199.97,113,No action,Low,0
+10,Chicken,Normal,255.03,248,No action,Low,0
+10,Buns,Normal,208.6,247,No action,Low,0
+10,Fries,Normal,209.07,127,No action,Low,0
+10,Oil,Normal,222.37,217,No action,Low,0
+10,Sauce,Normal,248.73,298,No action,Low,0

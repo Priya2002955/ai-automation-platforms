@@ -1,0 +1,51 @@
+store_id,product,current_stock,daily_usage,days_until_stockout,supplier_name,lead_time_days,risk_type,recommended_action,reorder_quantity
+1,Chicken,67,11,6.09,Silva Ltd,4,Low Stock,Reorder 372 units,372
+1,Buns,139,49,2.84,Watts-Alexander,1,Normal,No action needed,0
+1,Fries,287,31,9.26,Schaefer PLC,1,Normal,No action needed,0
+1,Oil,282,37,7.62,Baker-Smith,4,Normal,No action needed,0
+1,Sauce,58,29,2.0,"Rogers, Hogan and Nunez",5,Stockout Risk,Urgent reorder 338 units,338
+2,Chicken,215,29,7.41,Silva Ltd,4,Normal,No action needed,0
+2,Buns,248,38,6.53,Watts-Alexander,1,Normal,No action needed,0
+2,Fries,103,45,2.29,Schaefer PLC,1,Normal,No action needed,0
+2,Oil,256,35,7.31,Baker-Smith,4,Normal,No action needed,0
+2,Sauce,268,42,6.38,"Rogers, Hogan and Nunez",5,Normal,No action needed,0
+3,Chicken,166,32,5.19,Silva Ltd,4,Normal,No action needed,0
+3,Buns,277,47,5.89,Watts-Alexander,1,Normal,No action needed,0
+3,Fries,186,13,14.31,Schaefer PLC,1,Normal,No action needed,0
+3,Oil,169,48,3.52,Baker-Smith,4,Stockout Risk,Urgent reorder 138 units,138
+3,Sauce,189,36,5.25,"Rogers, Hogan and Nunez",5,Normal,No action needed,0
+4,Chicken,73,44,1.66,Silva Ltd,4,Stockout Risk,Urgent reorder 366 units,366
+4,Buns,148,41,3.61,Watts-Alexander,1,Normal,No action needed,0
+4,Fries,124,33,3.76,Schaefer PLC,1,Normal,No action needed,0
+4,Oil,234,28,8.36,Baker-Smith,4,Normal,No action needed,0
+4,Sauce,265,12,22.08,"Rogers, Hogan and Nunez",5,Normal,No action needed,0
+5,Chicken,286,22,13.0,Silva Ltd,4,Normal,No action needed,0
+5,Buns,296,44,6.73,Watts-Alexander,1,Normal,No action needed,0
+5,Fries,95,50,1.9,Schaefer PLC,1,Normal,No action needed,0
+5,Oil,209,26,8.04,Baker-Smith,4,Normal,No action needed,0
+5,Sauce,131,46,2.85,"Rogers, Hogan and Nunez",5,Stockout Risk,Urgent reorder 265 units,265
+6,Chicken,105,10,10.5,Silva Ltd,4,Low Stock,Reorder 334 units,334
+6,Buns,137,50,2.74,Watts-Alexander,1,Normal,No action needed,0
+6,Fries,294,11,26.73,Schaefer PLC,1,Normal,No action needed,0
+6,Oil,62,44,1.41,Baker-Smith,4,Stockout Risk,Urgent reorder 245 units,245
+6,Sauce,94,48,1.96,"Rogers, Hogan and Nunez",5,Stockout Risk,Urgent reorder 302 units,302
+7,Chicken,75,48,1.56,Silva Ltd,4,Stockout Risk,Urgent reorder 364 units,364
+7,Buns,157,50,3.14,Watts-Alexander,1,Normal,No action needed,0
+7,Fries,225,35,6.43,Schaefer PLC,1,Normal,No action needed,0
+7,Oil,59,12,4.92,Baker-Smith,4,Low Stock,Reorder 248 units,248
+7,Sauce,250,31,8.06,"Rogers, Hogan and Nunez",5,Normal,No action needed,0
+8,Chicken,262,22,11.91,Silva Ltd,4,Normal,No action needed,0
+8,Buns,93,20,4.65,Watts-Alexander,1,Low Stock,Reorder 255 units,255
+8,Fries,150,17,8.82,Schaefer PLC,1,Normal,No action needed,0
+8,Oil,268,43,6.23,Baker-Smith,4,Normal,No action needed,0
+8,Sauce,164,43,3.81,"Rogers, Hogan and Nunez",5,Stockout Risk,Urgent reorder 232 units,232
+9,Chicken,236,33,7.15,Silva Ltd,4,Normal,No action needed,0
+9,Buns,229,25,9.16,Watts-Alexander,1,Normal,No action needed,0
+9,Fries,77,14,5.5,Schaefer PLC,1,Low Stock,Reorder 345 units,345
+9,Oil,257,50,5.14,Baker-Smith,4,Normal,No action needed,0
+9,Sauce,113,20,5.65,"Rogers, Hogan and Nunez",5,Normal,No action needed,0
+10,Chicken,248,31,8.0,Silva Ltd,4,Normal,No action needed,0
+10,Buns,247,18,13.72,Watts-Alexander,1,Normal,No action needed,0
+10,Fries,127,23,5.52,Schaefer PLC,1,Normal,No action needed,0
+10,Oil,217,12,18.08,Baker-Smith,4,Normal,No action needed,0
+10,Sauce,298,40,7.45,"Rogers, Hogan and Nunez",5,Normal,No action needed,0
