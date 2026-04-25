@@ -1,0 +1,187 @@
+transaction_id,store_id,amount,reason,status,reviewed_by
+TXN-1004,6,534.72,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1005,1,442.16,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1007,5,435.65,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1010,1,415.28,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1011,6,506.43,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1014,3,475.49,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1016,9,473.21,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1017,10,586.2,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1024,2,512.44,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1025,6,465.8,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1042,9,534.9,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1048,2,463.74,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1055,4,536.18,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1056,5,446.34,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1060,6,299.13,Duplicate transaction detected and requires manual review.,Pending,Not Assigned
+TXN-1062,5,518.48,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1066,8,585.72,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1071,8,420.05,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1076,10,582.9,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1082,7,570.72,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1083,5,531.92,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1084,1,431.09,Duplicate transaction detected and requires manual review.,Pending,Not Assigned
+TXN-1085,7,522.56,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1088,10,401.96,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1090,3,551.71,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1091,9,421.71,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1094,2,414.98,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1095,7,540.21,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1096,5,570.0,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1097,8,154.02,Refund must be verified against policy rules.,Pending,Not Assigned
+TXN-1098,8,412.0,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1099,1,467.45,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1100,4,411.94,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1102,6,457.98,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1103,9,503.48,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1104,10,497.4,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1106,2,409.29,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1107,2,512.56,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1110,3,460.81,Duplicate transaction detected and requires manual review.,Pending,Not Assigned
+TXN-1113,6,253.0,Refund must be verified against policy rules.,Pending,Not Assigned
+TXN-1115,2,501.63,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1120,7,558.07,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1121,10,443.56,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1125,2,501.12,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1128,7,565.9,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1129,2,209.02,Refund must be verified against policy rules.,Pending,Not Assigned
+TXN-1132,1,441.43,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1135,6,555.16,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1136,8,501.89,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1137,10,413.55,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1140,2,570.76,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1141,7,465.57,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1142,9,425.0,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1143,3,497.96,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1145,8,519.94,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1147,1,538.38,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1151,5,595.0,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1153,1,356.5,Duplicate transaction detected and requires manual review.,Pending,Not Assigned
+TXN-1157,3,486.56,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1159,1,437.51,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1162,3,598.37,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1165,4,585.03,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1171,7,400.38,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1172,1,472.11,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1173,3,367.19,Refund must be verified against policy rules.,Pending,Not Assigned
+TXN-1174,5,531.27,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1178,3,505.46,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1180,10,467.21,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1182,4,578.47,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1184,8,505.14,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1192,1,579.13,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1196,8,435.83,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1199,4,415.93,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1200,1,529.59,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1205,2,531.46,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1207,10,192.14,Duplicate transaction detected and requires manual review.,Pending,Not Assigned
+TXN-1210,5,487.59,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1216,5,549.52,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1219,6,453.15,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1220,10,595.96,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1221,3,446.7,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1222,2,562.67,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1225,4,545.67,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1226,8,585.84,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1231,4,457.88,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1233,3,355.04,Refund must be verified against policy rules.,Pending,Not Assigned
+TXN-1234,4,478.18,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1240,10,582.89,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1249,4,510.17,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1252,7,447.04,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1256,9,580.43,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1259,2,511.86,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1260,4,588.99,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1262,1,575.59,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1266,5,433.28,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1267,2,416.05,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1268,5,532.14,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1269,5,514.86,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1274,4,435.12,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1277,6,457.24,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1280,2,455.13,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1282,1,589.49,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1289,1,550.15,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1291,4,481.32,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1293,2,402.57,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1308,6,510.87,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1310,8,512.04,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1312,1,557.69,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1315,10,583.28,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1317,4,510.68,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1319,8,406.46,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1324,3,549.98,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1326,2,456.01,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1329,1,545.07,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1333,7,593.48,Refund must be verified against policy rules.,Pending,Not Assigned
+TXN-1334,8,526.15,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1335,8,428.15,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1338,1,400.7,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1341,5,435.75,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1347,5,559.53,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1353,4,518.65,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1357,10,70.02,Duplicate transaction detected and requires manual review.,Pending,Not Assigned
+TXN-1359,5,322.77,Refund must be verified against policy rules.,Pending,Not Assigned
+TXN-1366,1,434.9,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1371,10,585.28,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1372,1,396.75,Refund must be verified against policy rules.,Pending,Not Assigned
+TXN-1376,7,436.97,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1378,2,561.74,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1381,7,464.65,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1383,3,599.17,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1388,3,544.1,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1389,8,590.59,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1390,6,523.34,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1392,5,490.5,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1393,6,564.9,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1394,5,433.7,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1395,5,421.81,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1396,8,421.11,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1397,6,482.87,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1399,1,406.58,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1402,1,563.01,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1404,7,503.52,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1405,4,440.69,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1411,6,479.45,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1412,6,38.19,Duplicate transaction detected and requires manual review.,Pending,Not Assigned
+TXN-1413,9,462.27,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1414,6,420.35,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1419,1,427.26,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1425,6,553.34,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1430,7,465.05,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1431,2,496.19,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1432,5,485.37,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1434,1,488.1,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1436,4,430.31,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1437,10,519.8,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1441,5,476.27,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1444,3,588.71,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1448,10,531.75,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1450,5,487.72,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1452,10,366.59,Duplicate transaction detected and requires manual review.,Pending,Not Assigned
+TXN-1457,1,598.89,Duplicate transaction detected and requires manual review.,Pending,Not Assigned
+TXN-1461,3,566.44,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1462,7,432.26,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1469,6,595.21,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1470,5,427.14,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1475,9,409.57,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1476,2,592.07,Refund must be verified against policy rules.,Pending,Not Assigned
+TXN-1477,10,590.75,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1481,6,401.01,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1482,3,549.23,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1485,4,447.74,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1488,6,547.32,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1494,5,402.77,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1496,1,569.44,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1497,1,514.2,High-value transaction requires managerial validation.,Pending,Not Assigned
+TXN-1498,9,347.51,Duplicate transaction detected and requires manual review.,Pending,Not Assigned
+TXN-1110,3,460.81,Duplicate transaction detected and requires manual review.,Pending,Not Assigned
+TXN-1084,1,431.09,Duplicate transaction detected and requires manual review.,Pending,Not Assigned
+TXN-1207,10,192.14,Duplicate transaction detected and requires manual review.,Pending,Not Assigned
+TXN-1060,6,299.13,Duplicate transaction detected and requires manual review.,Pending,Not Assigned
+TXN-1457,1,598.89,Duplicate transaction detected and requires manual review.,Pending,Not Assigned
+TXN-1498,9,347.51,Duplicate transaction detected and requires manual review.,Pending,Not Assigned
+TXN-1452,10,366.59,Duplicate transaction detected and requires manual review.,Pending,Not Assigned
+TXN-1153,1,356.5,Duplicate transaction detected and requires manual review.,Pending,Not Assigned
+TXN-1412,6,38.19,Duplicate transaction detected and requires manual review.,Pending,Not Assigned
+TXN-1357,10,70.02,Duplicate transaction detected and requires manual review.,Pending,Not Assigned

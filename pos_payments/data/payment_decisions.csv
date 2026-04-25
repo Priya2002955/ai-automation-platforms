@@ -1,0 +1,511 @@
+transaction_id,store_id,amount,risk_type,decision,priority,human_in_loop_required,approval_status,decision_reason
+TXN-1001,1,277.55,Normal,No Action,Low,False,Auto-Approved,
+TXN-1002,2,163.6,Normal,No Action,Low,False,Auto-Approved,
+TXN-1003,9,277.87,Normal,No Action,Low,False,Auto-Approved,
+TXN-1004,6,534.72,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1005,1,442.16,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1006,2,119.59,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1007,5,435.65,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1008,6,269.85,Normal,No Action,Low,False,Auto-Approved,
+TXN-1009,5,246.97,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1010,1,415.28,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1011,6,506.43,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1012,9,268.63,Normal,No Action,Low,False,Auto-Approved,
+TXN-1013,5,105.01,Normal,No Action,Low,False,Auto-Approved,
+TXN-1014,3,475.49,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1015,9,285.13,Normal,No Action,Low,False,Auto-Approved,
+TXN-1016,9,473.21,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1017,10,586.2,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1018,2,247.77,Normal,No Action,Low,False,Auto-Approved,
+TXN-1019,9,329.0,Normal,No Action,Low,False,Auto-Approved,
+TXN-1020,7,219.89,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1021,6,52.09,Normal,No Action,Low,False,Auto-Approved,
+TXN-1022,8,62.72,Normal,No Action,Low,False,Auto-Approved,
+TXN-1023,3,349.55,Normal,No Action,Low,False,Auto-Approved,
+TXN-1024,2,512.44,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1025,6,465.8,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1026,6,122.53,Normal,No Action,Low,False,Auto-Approved,
+TXN-1027,7,380.3,Normal,No Action,Low,False,Auto-Approved,
+TXN-1028,7,163.74,Normal,No Action,Low,False,Auto-Approved,
+TXN-1029,4,7.19,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1030,3,55.26,Normal,No Action,Low,False,Auto-Approved,
+TXN-1031,2,114.67,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1032,9,64.53,Normal,No Action,Low,False,Auto-Approved,
+TXN-1033,8,31.71,Normal,No Action,Low,False,Auto-Approved,
+TXN-1034,9,186.49,Normal,No Action,Low,False,Auto-Approved,
+TXN-1035,2,274.9,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1036,5,322.33,Normal,No Action,Low,False,Auto-Approved,
+TXN-1037,4,291.76,Normal,No Action,Low,False,Auto-Approved,
+TXN-1038,6,86.36,Normal,No Action,Low,False,Auto-Approved,
+TXN-1039,9,50.31,Normal,No Action,Low,False,Auto-Approved,
+TXN-1040,10,40.99,Normal,No Action,Low,False,Auto-Approved,
+TXN-1041,7,144.94,Normal,No Action,Low,False,Auto-Approved,
+TXN-1042,9,534.9,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1043,1,261.79,Normal,No Action,Low,False,Auto-Approved,
+TXN-1044,5,78.77,Normal,No Action,Low,False,Auto-Approved,
+TXN-1045,4,336.89,Normal,No Action,Low,False,Auto-Approved,
+TXN-1046,6,327.17,Normal,No Action,Low,False,Auto-Approved,
+TXN-1047,2,386.89,Normal,No Action,Low,False,Auto-Approved,
+TXN-1048,2,463.74,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1049,6,119.9,Normal,No Action,Low,False,Auto-Approved,
+TXN-1050,8,359.62,Normal,No Action,Low,False,Auto-Approved,
+TXN-1051,10,295.68,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1052,4,39.54,Normal,No Action,Low,False,Auto-Approved,
+TXN-1053,2,29.73,Normal,No Action,Low,False,Auto-Approved,
+TXN-1054,6,267.81,Normal,No Action,Low,False,Auto-Approved,
+TXN-1055,4,536.18,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1056,5,446.34,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1057,5,297.84,Normal,No Action,Low,False,Auto-Approved,
+TXN-1058,9,169.89,Normal,No Action,Low,False,Auto-Approved,
+TXN-1059,2,208.32,Normal,No Action,Low,False,Auto-Approved,
+TXN-1060,6,299.13,Duplicate Transaction,Flag for Investigation,High,True,Pending Approval,Duplicate transaction detected and requires manual review.
+TXN-1061,3,175.13,Normal,No Action,Low,False,Auto-Approved,
+TXN-1062,5,518.48,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1063,4,181.62,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1064,10,359.05,Normal,No Action,Low,False,Auto-Approved,
+TXN-1065,5,366.04,Normal,No Action,Low,False,Auto-Approved,
+TXN-1066,8,585.72,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1067,10,374.5,Normal,No Action,Low,False,Auto-Approved,
+TXN-1068,10,99.28,Normal,No Action,Low,False,Auto-Approved,
+TXN-1069,10,361.39,Normal,No Action,Low,False,Auto-Approved,
+TXN-1070,8,303.25,Normal,No Action,Low,False,Auto-Approved,
+TXN-1071,8,420.05,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1072,6,357.41,Normal,No Action,Low,False,Auto-Approved,
+TXN-1073,9,271.23,Normal,No Action,Low,False,Auto-Approved,
+TXN-1074,5,363.19,Normal,No Action,Low,False,Auto-Approved,
+TXN-1075,3,219.24,Normal,No Action,Low,False,Auto-Approved,
+TXN-1076,10,582.9,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1077,2,210.71,Normal,No Action,Low,False,Auto-Approved,
+TXN-1078,3,256.26,Normal,No Action,Low,False,Auto-Approved,
+TXN-1079,2,268.85,Normal,No Action,Low,False,Auto-Approved,
+TXN-1080,6,236.6,Normal,No Action,Low,False,Auto-Approved,
+TXN-1081,3,181.38,Normal,No Action,Low,False,Auto-Approved,
+TXN-1082,7,570.72,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1083,5,531.92,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1084,1,431.09,Duplicate Transaction,Flag for Investigation,High,True,Pending Approval,Duplicate transaction detected and requires manual review.
+TXN-1085,7,522.56,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1086,8,6.79,Normal,No Action,Low,False,Auto-Approved,
+TXN-1087,10,155.53,Normal,No Action,Low,False,Auto-Approved,
+TXN-1088,10,401.96,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1089,2,351.31,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1090,3,551.71,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1091,9,421.71,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1092,1,388.24,Normal,No Action,Low,False,Auto-Approved,
+TXN-1093,7,381.75,Normal,No Action,Low,False,Auto-Approved,
+TXN-1094,2,414.98,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1095,7,540.21,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1096,5,570.0,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1097,8,154.02,Refund Event,Compliance Review,Medium,True,Pending Approval,Refund must be verified against policy rules.
+TXN-1098,8,412.0,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1099,1,467.45,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1100,4,411.94,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1101,7,336.91,Normal,No Action,Low,False,Auto-Approved,
+TXN-1102,6,457.98,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1103,9,503.48,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1104,10,497.4,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1105,10,303.89,Normal,No Action,Low,False,Auto-Approved,
+TXN-1106,2,409.29,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1107,2,512.56,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1108,7,120.63,Normal,No Action,Low,False,Auto-Approved,
+TXN-1109,4,283.82,Normal,No Action,Low,False,Auto-Approved,
+TXN-1110,3,460.81,Duplicate Transaction,Flag for Investigation,High,True,Pending Approval,Duplicate transaction detected and requires manual review.
+TXN-1111,6,31.13,Normal,No Action,Low,False,Auto-Approved,
+TXN-1112,6,148.18,Normal,No Action,Low,False,Auto-Approved,
+TXN-1113,6,253.0,Refund Event,Compliance Review,Medium,True,Pending Approval,Refund must be verified against policy rules.
+TXN-1114,5,319.55,Normal,No Action,Low,False,Auto-Approved,
+TXN-1115,2,501.63,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1116,6,312.97,Normal,No Action,Low,False,Auto-Approved,
+TXN-1117,6,390.62,Normal,No Action,Low,False,Auto-Approved,
+TXN-1118,6,218.62,Normal,No Action,Low,False,Auto-Approved,
+TXN-1119,9,372.6,Normal,No Action,Low,False,Auto-Approved,
+TXN-1120,7,558.07,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1121,10,443.56,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1122,1,217.76,Normal,No Action,Low,False,Auto-Approved,
+TXN-1123,2,177.39,Normal,No Action,Low,False,Auto-Approved,
+TXN-1124,9,201.2,Normal,No Action,Low,False,Auto-Approved,
+TXN-1125,2,501.12,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1126,9,381.13,Normal,No Action,Low,False,Auto-Approved,
+TXN-1127,3,49.51,Normal,No Action,Low,False,Auto-Approved,
+TXN-1128,7,565.9,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1129,2,209.02,Refund Event,Compliance Review,Medium,True,Pending Approval,Refund must be verified against policy rules.
+TXN-1130,2,23.8,Normal,No Action,Low,False,Auto-Approved,
+TXN-1131,7,207.78,Normal,No Action,Low,False,Auto-Approved,
+TXN-1132,1,441.43,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1133,9,85.76,Normal,No Action,Low,False,Auto-Approved,
+TXN-1134,8,173.95,Normal,No Action,Low,False,Auto-Approved,
+TXN-1135,6,555.16,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1136,8,501.89,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1137,10,413.55,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1138,9,189.3,Normal,No Action,Low,False,Auto-Approved,
+TXN-1139,3,342.05,Normal,No Action,Low,False,Auto-Approved,
+TXN-1140,2,570.76,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1141,7,465.57,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1142,9,425.0,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1143,3,497.96,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1144,2,50.1,Normal,No Action,Low,False,Auto-Approved,
+TXN-1145,8,519.94,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1146,2,201.57,Normal,No Action,Low,False,Auto-Approved,
+TXN-1147,1,538.38,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1148,8,246.05,Normal,No Action,Low,False,Auto-Approved,
+TXN-1149,5,73.62,Normal,No Action,Low,False,Auto-Approved,
+TXN-1150,2,377.53,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1151,5,595.0,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1152,2,103.88,Normal,No Action,Low,False,Auto-Approved,
+TXN-1153,1,356.5,Duplicate Transaction,Flag for Investigation,High,True,Pending Approval,Duplicate transaction detected and requires manual review.
+TXN-1154,9,54.15,Normal,No Action,Low,False,Auto-Approved,
+TXN-1155,2,26.91,Normal,No Action,Low,False,Auto-Approved,
+TXN-1156,10,384.25,Normal,No Action,Low,False,Auto-Approved,
+TXN-1157,3,486.56,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1158,7,352.23,Normal,No Action,Low,False,Auto-Approved,
+TXN-1159,1,437.51,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1160,10,201.42,Normal,No Action,Low,False,Auto-Approved,
+TXN-1161,7,308.49,Normal,No Action,Low,False,Auto-Approved,
+TXN-1162,3,598.37,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1163,10,143.7,Normal,No Action,Low,False,Auto-Approved,
+TXN-1164,7,259.93,Normal,No Action,Low,False,Auto-Approved,
+TXN-1165,4,585.03,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1166,4,202.7,Normal,No Action,Low,False,Auto-Approved,
+TXN-1167,2,83.49,Normal,No Action,Low,False,Auto-Approved,
+TXN-1168,8,199.53,Normal,No Action,Low,False,Auto-Approved,
+TXN-1169,2,168.12,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1170,4,381.5,Normal,No Action,Low,False,Auto-Approved,
+TXN-1171,7,400.38,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1172,1,472.11,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1173,3,367.19,Refund Event,Compliance Review,Medium,True,Pending Approval,Refund must be verified against policy rules.
+TXN-1174,5,531.27,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1175,3,34.84,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1176,3,23.58,Normal,No Action,Low,False,Auto-Approved,
+TXN-1177,8,262.94,Normal,No Action,Low,False,Auto-Approved,
+TXN-1178,3,505.46,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1179,2,116.52,Normal,No Action,Low,False,Auto-Approved,
+TXN-1180,10,467.21,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1181,3,238.25,Normal,No Action,Low,False,Auto-Approved,
+TXN-1182,4,578.47,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1183,10,172.2,Normal,No Action,Low,False,Auto-Approved,
+TXN-1184,8,505.14,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1185,3,214.74,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1186,5,306.27,Normal,No Action,Low,False,Auto-Approved,
+TXN-1187,3,39.71,Normal,No Action,Low,False,Auto-Approved,
+TXN-1188,2,74.91,Normal,No Action,Low,False,Auto-Approved,
+TXN-1189,1,14.89,Normal,No Action,Low,False,Auto-Approved,
+TXN-1190,4,378.97,Normal,No Action,Low,False,Auto-Approved,
+TXN-1191,3,224.45,Normal,No Action,Low,False,Auto-Approved,
+TXN-1192,1,579.13,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1193,4,119.98,Normal,No Action,Low,False,Auto-Approved,
+TXN-1194,10,277.67,Normal,No Action,Low,False,Auto-Approved,
+TXN-1195,6,345.11,Normal,No Action,Low,False,Auto-Approved,
+TXN-1196,8,435.83,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1197,3,398.11,Normal,No Action,Low,False,Auto-Approved,
+TXN-1198,4,299.7,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1199,4,415.93,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1200,1,529.59,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1201,6,315.35,Normal,No Action,Low,False,Auto-Approved,
+TXN-1202,1,29.22,Normal,No Action,Low,False,Auto-Approved,
+TXN-1203,5,251.9,Normal,No Action,Low,False,Auto-Approved,
+TXN-1204,6,162.48,Normal,No Action,Low,False,Auto-Approved,
+TXN-1205,2,531.46,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1206,2,270.41,Normal,No Action,Low,False,Auto-Approved,
+TXN-1207,10,192.14,Duplicate Transaction,Flag for Investigation,High,True,Pending Approval,Duplicate transaction detected and requires manual review.
+TXN-1208,4,113.44,Normal,No Action,Low,False,Auto-Approved,
+TXN-1209,1,21.42,Normal,No Action,Low,False,Auto-Approved,
+TXN-1210,5,487.59,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1211,8,250.39,Normal,No Action,Low,False,Auto-Approved,
+TXN-1212,3,101.75,Normal,No Action,Low,False,Auto-Approved,
+TXN-1213,5,389.43,Normal,No Action,Low,False,Auto-Approved,
+TXN-1214,1,218.62,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1215,10,365.36,Normal,No Action,Low,False,Auto-Approved,
+TXN-1216,5,549.52,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1217,6,44.84,Normal,No Action,Low,False,Auto-Approved,
+TXN-1218,9,300.19,Normal,No Action,Low,False,Auto-Approved,
+TXN-1219,6,453.15,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1220,10,595.96,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1221,3,446.7,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1222,2,562.67,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1223,2,86.72,Normal,No Action,Low,False,Auto-Approved,
+TXN-1224,7,323.5,Normal,No Action,Low,False,Auto-Approved,
+TXN-1225,4,545.67,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1226,8,585.84,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1227,4,159.29,Normal,No Action,Low,False,Auto-Approved,
+TXN-1228,1,34.68,Normal,No Action,Low,False,Auto-Approved,
+TXN-1229,3,350.97,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1230,9,253.09,Normal,No Action,Low,False,Auto-Approved,
+TXN-1231,4,457.88,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1232,5,142.69,Normal,No Action,Low,False,Auto-Approved,
+TXN-1233,3,355.04,Refund Event,Compliance Review,Medium,True,Pending Approval,Refund must be verified against policy rules.
+TXN-1234,4,478.18,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1235,3,47.92,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1236,2,393.46,Normal,No Action,Low,False,Auto-Approved,
+TXN-1237,1,194.87,Normal,No Action,Low,False,Auto-Approved,
+TXN-1238,10,250.32,Normal,No Action,Low,False,Auto-Approved,
+TXN-1239,4,112.0,Normal,No Action,Low,False,Auto-Approved,
+TXN-1240,10,582.89,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1241,9,165.18,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1242,7,132.62,Normal,No Action,Low,False,Auto-Approved,
+TXN-1243,10,244.47,Normal,No Action,Low,False,Auto-Approved,
+TXN-1244,4,303.28,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1245,4,144.38,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1246,6,392.8,Normal,No Action,Low,False,Auto-Approved,
+TXN-1247,4,141.19,Normal,No Action,Low,False,Auto-Approved,
+TXN-1248,4,280.82,Normal,No Action,Low,False,Auto-Approved,
+TXN-1249,4,510.17,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1250,3,348.2,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1251,1,198.92,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1252,7,447.04,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1253,10,371.1,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1254,7,312.96,Normal,No Action,Low,False,Auto-Approved,
+TXN-1255,1,287.8,Normal,No Action,Low,False,Auto-Approved,
+TXN-1256,9,580.43,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1257,3,20.93,Normal,No Action,Low,False,Auto-Approved,
+TXN-1258,3,205.22,Normal,No Action,Low,False,Auto-Approved,
+TXN-1259,2,511.86,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1260,4,588.99,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1261,10,47.37,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1262,1,575.59,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1263,4,220.19,Normal,No Action,Low,False,Auto-Approved,
+TXN-1264,3,37.74,Normal,No Action,Low,False,Auto-Approved,
+TXN-1265,5,66.8,Normal,No Action,Low,False,Auto-Approved,
+TXN-1266,5,433.28,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1267,2,416.05,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1268,5,532.14,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1269,5,514.86,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1270,2,286.82,Normal,No Action,Low,False,Auto-Approved,
+TXN-1271,3,117.0,Normal,No Action,Low,False,Auto-Approved,
+TXN-1272,8,245.15,Normal,No Action,Low,False,Auto-Approved,
+TXN-1273,5,125.33,Normal,No Action,Low,False,Auto-Approved,
+TXN-1274,4,435.12,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1275,3,387.17,Normal,No Action,Low,False,Auto-Approved,
+TXN-1276,6,183.91,Normal,No Action,Low,False,Auto-Approved,
+TXN-1277,6,457.24,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1278,10,210.8,Normal,No Action,Low,False,Auto-Approved,
+TXN-1279,7,229.7,Normal,No Action,Low,False,Auto-Approved,
+TXN-1280,2,455.13,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1281,1,251.9,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1282,1,589.49,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1283,3,228.06,Normal,No Action,Low,False,Auto-Approved,
+TXN-1284,6,349.96,Normal,No Action,Low,False,Auto-Approved,
+TXN-1285,3,145.91,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1286,5,226.8,Normal,No Action,Low,False,Auto-Approved,
+TXN-1287,7,380.0,Normal,No Action,Low,False,Auto-Approved,
+TXN-1288,1,359.83,Normal,No Action,Low,False,Auto-Approved,
+TXN-1289,1,550.15,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1290,7,68.22,Normal,No Action,Low,False,Auto-Approved,
+TXN-1291,4,481.32,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1292,9,368.58,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1293,2,402.57,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1294,1,183.78,Normal,No Action,Low,False,Auto-Approved,
+TXN-1295,1,214.25,Normal,No Action,Low,False,Auto-Approved,
+TXN-1296,8,374.36,Normal,No Action,Low,False,Auto-Approved,
+TXN-1297,9,82.55,Normal,No Action,Low,False,Auto-Approved,
+TXN-1298,8,183.05,Normal,No Action,Low,False,Auto-Approved,
+TXN-1299,9,48.1,Normal,No Action,Low,False,Auto-Approved,
+TXN-1300,5,173.88,Normal,No Action,Low,False,Auto-Approved,
+TXN-1301,1,95.55,Normal,No Action,Low,False,Auto-Approved,
+TXN-1302,6,386.3,Normal,No Action,Low,False,Auto-Approved,
+TXN-1303,8,198.56,Normal,No Action,Low,False,Auto-Approved,
+TXN-1304,7,135.57,Normal,No Action,Low,False,Auto-Approved,
+TXN-1305,7,238.89,Normal,No Action,Low,False,Auto-Approved,
+TXN-1306,4,267.59,Normal,No Action,Low,False,Auto-Approved,
+TXN-1307,8,233.71,Normal,No Action,Low,False,Auto-Approved,
+TXN-1308,6,510.87,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1309,9,188.88,Normal,No Action,Low,False,Auto-Approved,
+TXN-1310,8,512.04,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1311,1,229.1,Normal,No Action,Low,False,Auto-Approved,
+TXN-1312,1,557.69,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1313,1,82.05,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1314,10,396.93,Normal,No Action,Low,False,Auto-Approved,
+TXN-1315,10,583.28,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1316,9,212.91,Normal,No Action,Low,False,Auto-Approved,
+TXN-1317,4,510.68,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1318,5,395.25,Normal,No Action,Low,False,Auto-Approved,
+TXN-1319,8,406.46,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1320,4,314.94,Normal,No Action,Low,False,Auto-Approved,
+TXN-1321,2,369.8,Normal,No Action,Low,False,Auto-Approved,
+TXN-1322,5,87.17,Normal,No Action,Low,False,Auto-Approved,
+TXN-1323,4,372.5,Normal,No Action,Low,False,Auto-Approved,
+TXN-1324,3,549.98,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1325,8,92.07,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1326,2,456.01,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1327,7,254.67,Normal,No Action,Low,False,Auto-Approved,
+TXN-1328,3,84.57,Normal,No Action,Low,False,Auto-Approved,
+TXN-1329,1,545.07,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1330,9,77.14,Normal,No Action,Low,False,Auto-Approved,
+TXN-1331,10,121.71,Normal,No Action,Low,False,Auto-Approved,
+TXN-1332,6,131.75,Normal,No Action,Low,False,Auto-Approved,
+TXN-1333,7,593.48,Refund Event,Compliance Review,Medium,True,Pending Approval,Refund must be verified against policy rules.
+TXN-1334,8,526.15,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1335,8,428.15,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1336,1,101.63,Normal,No Action,Low,False,Auto-Approved,
+TXN-1337,7,302.38,Normal,No Action,Low,False,Auto-Approved,
+TXN-1338,1,400.7,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1339,9,320.99,Normal,No Action,Low,False,Auto-Approved,
+TXN-1340,6,160.35,Normal,No Action,Low,False,Auto-Approved,
+TXN-1341,5,435.75,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1342,5,324.12,Normal,No Action,Low,False,Auto-Approved,
+TXN-1343,5,262.09,Normal,No Action,Low,False,Auto-Approved,
+TXN-1344,2,296.26,Normal,No Action,Low,False,Auto-Approved,
+TXN-1345,7,143.48,Normal,No Action,Low,False,Auto-Approved,
+TXN-1346,8,315.77,Normal,No Action,Low,False,Auto-Approved,
+TXN-1347,5,559.53,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1348,1,399.46,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1349,4,236.86,Normal,No Action,Low,False,Auto-Approved,
+TXN-1350,4,304.07,Normal,No Action,Low,False,Auto-Approved,
+TXN-1351,4,31.79,Normal,No Action,Low,False,Auto-Approved,
+TXN-1352,1,167.15,Normal,No Action,Low,False,Auto-Approved,
+TXN-1353,4,518.65,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1354,3,180.84,Normal,No Action,Low,False,Auto-Approved,
+TXN-1355,9,47.39,Normal,No Action,Low,False,Auto-Approved,
+TXN-1356,4,229.09,Normal,No Action,Low,False,Auto-Approved,
+TXN-1357,10,70.02,Duplicate Transaction,Flag for Investigation,High,True,Pending Approval,Duplicate transaction detected and requires manual review.
+TXN-1358,1,256.65,Normal,No Action,Low,False,Auto-Approved,
+TXN-1359,5,322.77,Refund Event,Compliance Review,Medium,True,Pending Approval,Refund must be verified against policy rules.
+TXN-1360,8,250.16,Normal,No Action,Low,False,Auto-Approved,
+TXN-1361,1,182.26,Normal,No Action,Low,False,Auto-Approved,
+TXN-1362,6,249.62,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1363,2,222.74,Normal,No Action,Low,False,Auto-Approved,
+TXN-1364,9,384.42,Normal,No Action,Low,False,Auto-Approved,
+TXN-1365,8,373.73,Normal,No Action,Low,False,Auto-Approved,
+TXN-1366,1,434.9,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1367,8,290.65,Normal,No Action,Low,False,Auto-Approved,
+TXN-1368,8,224.71,Normal,No Action,Low,False,Auto-Approved,
+TXN-1369,1,99.75,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1370,7,78.85,Normal,No Action,Low,False,Auto-Approved,
+TXN-1371,10,585.28,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1372,1,396.75,Refund Event,Compliance Review,Medium,True,Pending Approval,Refund must be verified against policy rules.
+TXN-1373,9,171.61,Normal,No Action,Low,False,Auto-Approved,
+TXN-1374,3,233.6,Normal,No Action,Low,False,Auto-Approved,
+TXN-1375,10,183.27,Normal,No Action,Low,False,Auto-Approved,
+TXN-1376,7,436.97,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1377,10,27.1,Normal,No Action,Low,False,Auto-Approved,
+TXN-1378,2,561.74,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1379,9,244.07,Normal,No Action,Low,False,Auto-Approved,
+TXN-1380,7,34.23,Normal,No Action,Low,False,Auto-Approved,
+TXN-1381,7,464.65,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1382,8,73.8,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1383,3,599.17,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1384,8,19.69,Normal,No Action,Low,False,Auto-Approved,
+TXN-1385,2,93.81,Normal,No Action,Low,False,Auto-Approved,
+TXN-1386,2,285.6,Normal,No Action,Low,False,Auto-Approved,
+TXN-1387,10,24.46,Normal,No Action,Low,False,Auto-Approved,
+TXN-1388,3,544.1,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1389,8,590.59,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1390,6,523.34,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1391,10,107.68,Normal,No Action,Low,False,Auto-Approved,
+TXN-1392,5,490.5,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1393,6,564.9,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1394,5,433.7,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1395,5,421.81,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1396,8,421.11,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1397,6,482.87,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1398,8,81.16,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1399,1,406.58,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1400,2,337.21,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1401,8,265.71,Normal,No Action,Low,False,Auto-Approved,
+TXN-1402,1,563.01,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1403,10,177.65,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1404,7,503.52,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1405,4,440.69,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1406,4,33.91,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1407,1,147.96,Normal,No Action,Low,False,Auto-Approved,
+TXN-1408,10,231.88,Normal,No Action,Low,False,Auto-Approved,
+TXN-1409,3,319.32,Normal,No Action,Low,False,Auto-Approved,
+TXN-1410,4,302.45,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1411,6,479.45,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1412,6,38.19,Duplicate Transaction,Flag for Investigation,High,True,Pending Approval,Duplicate transaction detected and requires manual review.
+TXN-1413,9,462.27,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1414,6,420.35,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1415,5,309.55,Normal,No Action,Low,False,Auto-Approved,
+TXN-1416,5,230.57,Normal,No Action,Low,False,Auto-Approved,
+TXN-1417,8,31.48,Normal,No Action,Low,False,Auto-Approved,
+TXN-1418,7,70.11,Normal,No Action,Low,False,Auto-Approved,
+TXN-1419,1,427.26,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1420,4,51.41,Normal,No Action,Low,False,Auto-Approved,
+TXN-1421,1,355.76,Normal,No Action,Low,False,Auto-Approved,
+TXN-1422,8,240.8,Normal,No Action,Low,False,Auto-Approved,
+TXN-1423,5,317.67,Normal,No Action,Low,False,Auto-Approved,
+TXN-1424,1,188.82,Normal,No Action,Low,False,Auto-Approved,
+TXN-1425,6,553.34,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1426,1,234.39,Normal,No Action,Low,False,Auto-Approved,
+TXN-1427,10,387.34,Normal,No Action,Low,False,Auto-Approved,
+TXN-1428,3,142.29,Normal,No Action,Low,False,Auto-Approved,
+TXN-1429,8,75.45,Normal,No Action,Low,False,Auto-Approved,
+TXN-1430,7,465.05,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1431,2,496.19,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1432,5,485.37,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1433,7,149.63,Normal,No Action,Low,False,Auto-Approved,
+TXN-1434,1,488.1,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1435,9,25.81,Normal,No Action,Low,False,Auto-Approved,
+TXN-1436,4,430.31,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1437,10,519.8,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1438,10,61.29,Normal,No Action,Low,False,Auto-Approved,
+TXN-1439,1,321.85,Normal,No Action,Low,False,Auto-Approved,
+TXN-1440,6,322.45,Normal,No Action,Low,False,Auto-Approved,
+TXN-1441,5,476.27,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1442,6,306.99,Normal,No Action,Low,False,Auto-Approved,
+TXN-1443,1,102.52,Normal,No Action,Low,False,Auto-Approved,
+TXN-1444,3,588.71,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1445,5,373.13,Normal,No Action,Low,False,Auto-Approved,
+TXN-1446,2,358.5,Normal,No Action,Low,False,Auto-Approved,
+TXN-1447,4,258.93,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1448,10,531.75,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1449,3,287.06,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1450,5,487.72,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1451,2,229.4,Normal,No Action,Low,False,Auto-Approved,
+TXN-1452,10,366.59,Duplicate Transaction,Flag for Investigation,High,True,Pending Approval,Duplicate transaction detected and requires manual review.
+TXN-1453,9,372.47,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1454,3,253.1,Normal,No Action,Low,False,Auto-Approved,
+TXN-1455,7,154.53,Normal,No Action,Low,False,Auto-Approved,
+TXN-1456,6,324.47,Normal,No Action,Low,False,Auto-Approved,
+TXN-1457,1,598.89,Duplicate Transaction,Flag for Investigation,High,True,Pending Approval,Duplicate transaction detected and requires manual review.
+TXN-1458,2,156.5,Normal,No Action,Low,False,Auto-Approved,
+TXN-1459,9,89.18,Normal,No Action,Low,False,Auto-Approved,
+TXN-1460,3,256.01,Normal,No Action,Low,False,Auto-Approved,
+TXN-1461,3,566.44,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1462,7,432.26,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1463,1,282.54,Normal,No Action,Low,False,Auto-Approved,
+TXN-1464,2,111.5,Normal,No Action,Low,False,Auto-Approved,
+TXN-1465,10,331.03,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1466,9,363.87,Normal,No Action,Low,False,Auto-Approved,
+TXN-1467,6,338.17,Normal,No Action,Low,False,Auto-Approved,
+TXN-1468,1,202.58,Normal,No Action,Low,False,Auto-Approved,
+TXN-1469,6,595.21,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1470,5,427.14,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1471,4,75.85,Normal,No Action,Low,False,Auto-Approved,
+TXN-1472,5,179.24,Normal,No Action,Low,False,Auto-Approved,
+TXN-1473,7,184.73,Normal,No Action,Low,False,Auto-Approved,
+TXN-1474,2,282.17,Normal,No Action,Low,False,Auto-Approved,
+TXN-1475,9,409.57,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1476,2,592.07,Refund Event,Compliance Review,Medium,True,Pending Approval,Refund must be verified against policy rules.
+TXN-1477,10,590.75,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1478,3,165.39,Normal,No Action,Low,False,Auto-Approved,
+TXN-1479,8,109.19,Normal,No Action,Low,False,Auto-Approved,
+TXN-1480,3,261.93,Normal,No Action,Low,False,Auto-Approved,
+TXN-1481,6,401.01,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1482,3,549.23,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1483,8,289.81,Normal,No Action,Low,False,Auto-Approved,
+TXN-1484,5,318.4,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1485,4,447.74,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1486,7,223.18,Normal,No Action,Low,False,Auto-Approved,
+TXN-1487,1,208.38,Normal,No Action,Low,False,Auto-Approved,
+TXN-1488,6,547.32,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1489,8,260.48,Normal,No Action,Low,False,Auto-Approved,
+TXN-1490,5,179.64,Normal,No Action,Low,False,Auto-Approved,
+TXN-1491,8,248.47,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1492,9,355.18,Normal,No Action,Low,False,Auto-Approved,
+TXN-1493,3,106.88,Normal,No Action,Low,False,Auto-Approved,
+TXN-1494,5,402.77,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1495,10,385.93,Normal,No Action,Low,False,Auto-Approved,
+TXN-1496,1,569.44,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1497,1,514.2,High-Value Transaction,Require Manager Approval,High,True,Pending Approval,High-value transaction requires managerial validation.
+TXN-1498,9,347.51,Duplicate Transaction,Flag for Investigation,High,True,Pending Approval,Duplicate transaction detected and requires manual review.
+TXN-1499,3,334.71,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1500,8,7.69,Failed Payment,Retry Payment,Medium,False,Auto-Approved,Payment failed and needs retry or customer follow-up.
+TXN-1110,3,460.81,Duplicate Transaction,Flag for Investigation,High,True,Pending Approval,Duplicate transaction detected and requires manual review.
+TXN-1084,1,431.09,Duplicate Transaction,Flag for Investigation,High,True,Pending Approval,Duplicate transaction detected and requires manual review.
+TXN-1207,10,192.14,Duplicate Transaction,Flag for Investigation,High,True,Pending Approval,Duplicate transaction detected and requires manual review.
+TXN-1060,6,299.13,Duplicate Transaction,Flag for Investigation,High,True,Pending Approval,Duplicate transaction detected and requires manual review.
+TXN-1457,1,598.89,Duplicate Transaction,Flag for Investigation,High,True,Pending Approval,Duplicate transaction detected and requires manual review.
+TXN-1498,9,347.51,Duplicate Transaction,Flag for Investigation,High,True,Pending Approval,Duplicate transaction detected and requires manual review.
+TXN-1452,10,366.59,Duplicate Transaction,Flag for Investigation,High,True,Pending Approval,Duplicate transaction detected and requires manual review.
+TXN-1153,1,356.5,Duplicate Transaction,Flag for Investigation,High,True,Pending Approval,Duplicate transaction detected and requires manual review.
+TXN-1412,6,38.19,Duplicate Transaction,Flag for Investigation,High,True,Pending Approval,Duplicate transaction detected and requires manual review.
+TXN-1357,10,70.02,Duplicate Transaction,Flag for Investigation,High,True,Pending Approval,Duplicate transaction detected and requires manual review.

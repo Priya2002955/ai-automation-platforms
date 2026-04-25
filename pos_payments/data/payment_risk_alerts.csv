@@ -1,0 +1,511 @@
+event_id,transaction_id,store_id,customer_id,amount,payment_method,status,event_type,risk_type,severity,risk_score,risk_reason
+EVT-1001,TXN-1001,1,CUST-736,277.55,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1002,TXN-1002,2,CUST-838,163.6,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1003,TXN-1003,9,CUST-417,277.87,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1004,TXN-1004,6,CUST-191,534.72,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1005,TXN-1005,1,CUST-711,442.16,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1006,TXN-1006,2,CUST-720,119.59,CASH,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1007,TXN-1007,5,CUST-672,435.65,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1008,TXN-1008,6,CUST-501,269.85,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1009,TXN-1009,5,CUST-955,246.97,GIFT_CARD,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1010,TXN-1010,1,CUST-648,415.28,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1011,TXN-1011,6,CUST-224,506.43,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1012,TXN-1012,9,CUST-151,268.63,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1013,TXN-1013,5,CUST-760,105.01,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1014,TXN-1014,3,CUST-415,475.49,CASH,FAILED,PAYMENT_FAILED,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1015,TXN-1015,9,CUST-192,285.13,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1016,TXN-1016,9,CUST-388,473.21,CARD,FAILED,PAYMENT_FAILED,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1017,TXN-1017,10,CUST-225,586.2,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1018,TXN-1018,2,CUST-514,247.77,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1019,TXN-1019,9,CUST-389,329.0,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1020,TXN-1020,7,CUST-742,219.89,CARD,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1021,TXN-1021,6,CUST-353,52.09,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1022,TXN-1022,8,CUST-516,62.72,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1023,TXN-1023,3,CUST-895,349.55,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1024,TXN-1024,2,CUST-919,512.44,MOBILE_WALLET,FAILED,PAYMENT_FAILED,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1025,TXN-1025,6,CUST-870,465.8,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1026,TXN-1026,6,CUST-227,122.53,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1027,TXN-1027,7,CUST-871,380.3,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1028,TXN-1028,7,CUST-923,163.74,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1029,TXN-1029,4,CUST-815,7.19,MOBILE_WALLET,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1030,TXN-1030,3,CUST-491,55.26,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1031,TXN-1031,2,CUST-535,114.67,MOBILE_WALLET,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1032,TXN-1032,9,CUST-247,64.53,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1033,TXN-1033,8,CUST-605,31.71,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1034,TXN-1034,9,CUST-231,186.49,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1035,TXN-1035,2,CUST-399,274.9,GIFT_CARD,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1036,TXN-1036,5,CUST-343,322.33,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1037,TXN-1037,4,CUST-842,291.76,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1038,TXN-1038,6,CUST-513,86.36,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1039,TXN-1039,9,CUST-909,50.31,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1040,TXN-1040,10,CUST-869,40.99,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1041,TXN-1041,7,CUST-273,144.94,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1042,TXN-1042,9,CUST-100,534.9,MOBILE_WALLET,FAILED,PAYMENT_FAILED,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1043,TXN-1043,1,CUST-829,261.79,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1044,TXN-1044,5,CUST-432,78.77,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1045,TXN-1045,4,CUST-681,336.89,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1046,TXN-1046,6,CUST-976,327.17,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1047,TXN-1047,2,CUST-528,386.89,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1048,TXN-1048,2,CUST-589,463.74,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1049,TXN-1049,6,CUST-540,119.9,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1050,TXN-1050,8,CUST-753,359.62,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1051,TXN-1051,10,CUST-764,295.68,MOBILE_WALLET,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1052,TXN-1052,4,CUST-408,39.54,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1053,TXN-1053,2,CUST-361,29.73,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1054,TXN-1054,6,CUST-806,267.81,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1055,TXN-1055,4,CUST-332,536.18,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1056,TXN-1056,5,CUST-722,446.34,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1057,TXN-1057,5,CUST-395,297.84,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1058,TXN-1058,9,CUST-393,169.89,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1059,TXN-1059,2,CUST-131,208.32,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1060,TXN-1060,6,CUST-431,299.13,CARD,SUCCESS,PAYMENT_SUCCESS,Duplicate Transaction,High,85,Same transaction ID appears multiple times and may indicate duplicate charge.
+EVT-1061,TXN-1061,3,CUST-358,175.13,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1062,TXN-1062,5,CUST-767,518.48,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1063,TXN-1063,4,CUST-831,181.62,MOBILE_WALLET,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1064,TXN-1064,10,CUST-279,359.05,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1065,TXN-1065,5,CUST-996,366.04,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1066,TXN-1066,8,CUST-711,585.72,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1067,TXN-1067,10,CUST-356,374.5,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1068,TXN-1068,10,CUST-727,99.28,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1069,TXN-1069,10,CUST-262,361.39,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1070,TXN-1070,8,CUST-914,303.25,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1071,TXN-1071,8,CUST-619,420.05,MOBILE_WALLET,FAILED,PAYMENT_FAILED,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1072,TXN-1072,6,CUST-930,357.41,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1073,TXN-1073,9,CUST-520,271.23,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1074,TXN-1074,5,CUST-665,363.19,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1075,TXN-1075,3,CUST-845,219.24,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1076,TXN-1076,10,CUST-383,582.9,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1077,TXN-1077,2,CUST-870,210.71,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1078,TXN-1078,3,CUST-732,256.26,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1079,TXN-1079,2,CUST-896,268.85,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1080,TXN-1080,6,CUST-423,236.6,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1081,TXN-1081,3,CUST-427,181.38,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1082,TXN-1082,7,CUST-942,570.72,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1083,TXN-1083,5,CUST-727,531.92,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1084,TXN-1084,1,CUST-914,431.09,CASH,SUCCESS,PAYMENT_SUCCESS,Duplicate Transaction,High,85,Same transaction ID appears multiple times and may indicate duplicate charge.
+EVT-1085,TXN-1085,7,CUST-462,522.56,CARD,FAILED,PAYMENT_FAILED,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1086,TXN-1086,8,CUST-608,6.79,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1087,TXN-1087,10,CUST-951,155.53,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1088,TXN-1088,10,CUST-154,401.96,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1089,TXN-1089,2,CUST-937,351.31,CASH,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1090,TXN-1090,3,CUST-914,551.71,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1091,TXN-1091,9,CUST-116,421.71,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1092,TXN-1092,1,CUST-693,388.24,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1093,TXN-1093,7,CUST-755,381.75,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1094,TXN-1094,2,CUST-861,414.98,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1095,TXN-1095,7,CUST-988,540.21,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1096,TXN-1096,5,CUST-645,570.0,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1097,TXN-1097,8,CUST-188,154.02,MOBILE_WALLET,REFUNDED,REFUND_INITIATED,Refund Event,Medium,65,Refund event detected and should be reviewed for policy compliance.
+EVT-1098,TXN-1098,8,CUST-608,412.0,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1099,TXN-1099,1,CUST-432,467.45,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1100,TXN-1100,4,CUST-239,411.94,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1101,TXN-1101,7,CUST-667,336.91,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1102,TXN-1102,6,CUST-898,457.98,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1103,TXN-1103,9,CUST-367,503.48,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1104,TXN-1104,10,CUST-490,497.4,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1105,TXN-1105,10,CUST-272,303.89,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1106,TXN-1106,2,CUST-369,409.29,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1107,TXN-1107,2,CUST-675,512.56,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1108,TXN-1108,7,CUST-115,120.63,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1109,TXN-1109,4,CUST-560,283.82,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1110,TXN-1110,3,CUST-338,460.81,CASH,SUCCESS,PAYMENT_SUCCESS,Duplicate Transaction,High,85,Same transaction ID appears multiple times and may indicate duplicate charge.
+EVT-1111,TXN-1111,6,CUST-776,31.13,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1112,TXN-1112,6,CUST-522,148.18,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1113,TXN-1113,6,CUST-503,253.0,CARD,REFUNDED,REFUND_INITIATED,Refund Event,Medium,65,Refund event detected and should be reviewed for policy compliance.
+EVT-1114,TXN-1114,5,CUST-992,319.55,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1115,TXN-1115,2,CUST-244,501.63,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1116,TXN-1116,6,CUST-653,312.97,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1117,TXN-1117,6,CUST-174,390.62,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1118,TXN-1118,6,CUST-816,218.62,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1119,TXN-1119,9,CUST-111,372.6,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1120,TXN-1120,7,CUST-137,558.07,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1121,TXN-1121,10,CUST-718,443.56,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1122,TXN-1122,1,CUST-298,217.76,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1123,TXN-1123,2,CUST-979,177.39,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1124,TXN-1124,9,CUST-716,201.2,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1125,TXN-1125,2,CUST-383,501.12,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1126,TXN-1126,9,CUST-959,381.13,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1127,TXN-1127,3,CUST-403,49.51,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1128,TXN-1128,7,CUST-580,565.9,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1129,TXN-1129,2,CUST-378,209.02,GIFT_CARD,REFUNDED,REFUND_INITIATED,Refund Event,Medium,65,Refund event detected and should be reviewed for policy compliance.
+EVT-1130,TXN-1130,2,CUST-823,23.8,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1131,TXN-1131,7,CUST-211,207.78,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1132,TXN-1132,1,CUST-705,441.43,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1133,TXN-1133,9,CUST-121,85.76,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1134,TXN-1134,8,CUST-708,173.95,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1135,TXN-1135,6,CUST-989,555.16,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1136,TXN-1136,8,CUST-173,501.89,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1137,TXN-1137,10,CUST-261,413.55,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1138,TXN-1138,9,CUST-353,189.3,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1139,TXN-1139,3,CUST-901,342.05,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1140,TXN-1140,2,CUST-247,570.76,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1141,TXN-1141,7,CUST-979,465.57,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1142,TXN-1142,9,CUST-752,425.0,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1143,TXN-1143,3,CUST-541,497.96,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1144,TXN-1144,2,CUST-979,50.1,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1145,TXN-1145,8,CUST-416,519.94,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1146,TXN-1146,2,CUST-705,201.57,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1147,TXN-1147,1,CUST-248,538.38,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1148,TXN-1148,8,CUST-794,246.05,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1149,TXN-1149,5,CUST-309,73.62,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1150,TXN-1150,2,CUST-929,377.53,MOBILE_WALLET,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1151,TXN-1151,5,CUST-168,595.0,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1152,TXN-1152,2,CUST-423,103.88,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1153,TXN-1153,1,CUST-428,356.5,CASH,SUCCESS,PAYMENT_SUCCESS,Duplicate Transaction,High,85,Same transaction ID appears multiple times and may indicate duplicate charge.
+EVT-1154,TXN-1154,9,CUST-757,54.15,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1155,TXN-1155,2,CUST-881,26.91,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1156,TXN-1156,10,CUST-269,384.25,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1157,TXN-1157,3,CUST-944,486.56,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1158,TXN-1158,7,CUST-752,352.23,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1159,TXN-1159,1,CUST-418,437.51,MOBILE_WALLET,FAILED,PAYMENT_FAILED,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1160,TXN-1160,10,CUST-280,201.42,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1161,TXN-1161,7,CUST-660,308.49,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1162,TXN-1162,3,CUST-812,598.37,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1163,TXN-1163,10,CUST-699,143.7,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1164,TXN-1164,7,CUST-965,259.93,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1165,TXN-1165,4,CUST-844,585.03,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1166,TXN-1166,4,CUST-592,202.7,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1167,TXN-1167,2,CUST-860,83.49,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1168,TXN-1168,8,CUST-676,199.53,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1169,TXN-1169,2,CUST-167,168.12,GIFT_CARD,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1170,TXN-1170,4,CUST-555,381.5,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1171,TXN-1171,7,CUST-130,400.38,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1172,TXN-1172,1,CUST-569,472.11,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1173,TXN-1173,3,CUST-612,367.19,GIFT_CARD,REFUNDED,REFUND_INITIATED,Refund Event,Medium,65,Refund event detected and should be reviewed for policy compliance.
+EVT-1174,TXN-1174,5,CUST-888,531.27,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1175,TXN-1175,3,CUST-602,34.84,CARD,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1176,TXN-1176,3,CUST-308,23.58,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1177,TXN-1177,8,CUST-149,262.94,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1178,TXN-1178,3,CUST-445,505.46,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1179,TXN-1179,2,CUST-133,116.52,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1180,TXN-1180,10,CUST-495,467.21,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1181,TXN-1181,3,CUST-747,238.25,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1182,TXN-1182,4,CUST-298,578.47,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1183,TXN-1183,10,CUST-713,172.2,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1184,TXN-1184,8,CUST-975,505.14,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1185,TXN-1185,3,CUST-255,214.74,MOBILE_WALLET,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1186,TXN-1186,5,CUST-444,306.27,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1187,TXN-1187,3,CUST-505,39.71,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1188,TXN-1188,2,CUST-325,74.91,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1189,TXN-1189,1,CUST-920,14.89,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1190,TXN-1190,4,CUST-487,378.97,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1191,TXN-1191,3,CUST-663,224.45,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1192,TXN-1192,1,CUST-256,579.13,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1193,TXN-1193,4,CUST-551,119.98,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1194,TXN-1194,10,CUST-732,277.67,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1195,TXN-1195,6,CUST-541,345.11,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1196,TXN-1196,8,CUST-256,435.83,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1197,TXN-1197,3,CUST-768,398.11,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1198,TXN-1198,4,CUST-761,299.7,GIFT_CARD,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1199,TXN-1199,4,CUST-393,415.93,CASH,FAILED,PAYMENT_FAILED,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1200,TXN-1200,1,CUST-913,529.59,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1201,TXN-1201,6,CUST-295,315.35,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1202,TXN-1202,1,CUST-219,29.22,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1203,TXN-1203,5,CUST-563,251.9,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1204,TXN-1204,6,CUST-230,162.48,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1205,TXN-1205,2,CUST-403,531.46,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1206,TXN-1206,2,CUST-186,270.41,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1207,TXN-1207,10,CUST-355,192.14,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Duplicate Transaction,High,85,Same transaction ID appears multiple times and may indicate duplicate charge.
+EVT-1208,TXN-1208,4,CUST-676,113.44,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1209,TXN-1209,1,CUST-811,21.42,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1210,TXN-1210,5,CUST-223,487.59,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1211,TXN-1211,8,CUST-702,250.39,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1212,TXN-1212,3,CUST-447,101.75,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1213,TXN-1213,5,CUST-567,389.43,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1214,TXN-1214,1,CUST-879,218.62,MOBILE_WALLET,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1215,TXN-1215,10,CUST-252,365.36,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1216,TXN-1216,5,CUST-262,549.52,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1217,TXN-1217,6,CUST-618,44.84,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1218,TXN-1218,9,CUST-253,300.19,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1219,TXN-1219,6,CUST-895,453.15,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1220,TXN-1220,10,CUST-617,595.96,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1221,TXN-1221,3,CUST-452,446.7,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1222,TXN-1222,2,CUST-709,562.67,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1223,TXN-1223,2,CUST-515,86.72,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1224,TXN-1224,7,CUST-762,323.5,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1225,TXN-1225,4,CUST-615,545.67,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1226,TXN-1226,8,CUST-309,585.84,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1227,TXN-1227,4,CUST-677,159.29,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1228,TXN-1228,1,CUST-230,34.68,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1229,TXN-1229,3,CUST-577,350.97,CASH,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1230,TXN-1230,9,CUST-953,253.09,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1231,TXN-1231,4,CUST-338,457.88,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1232,TXN-1232,5,CUST-509,142.69,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1233,TXN-1233,3,CUST-561,355.04,CASH,REFUNDED,REFUND_INITIATED,Refund Event,Medium,65,Refund event detected and should be reviewed for policy compliance.
+EVT-1234,TXN-1234,4,CUST-618,478.18,CARD,FAILED,PAYMENT_FAILED,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1235,TXN-1235,3,CUST-995,47.92,MOBILE_WALLET,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1236,TXN-1236,2,CUST-991,393.46,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1237,TXN-1237,1,CUST-749,194.87,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1238,TXN-1238,10,CUST-487,250.32,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1239,TXN-1239,4,CUST-580,112.0,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1240,TXN-1240,10,CUST-988,582.89,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1241,TXN-1241,9,CUST-421,165.18,GIFT_CARD,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1242,TXN-1242,7,CUST-153,132.62,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1243,TXN-1243,10,CUST-108,244.47,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1244,TXN-1244,4,CUST-356,303.28,CASH,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1245,TXN-1245,4,CUST-690,144.38,CASH,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1246,TXN-1246,6,CUST-387,392.8,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1247,TXN-1247,4,CUST-150,141.19,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1248,TXN-1248,4,CUST-410,280.82,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1249,TXN-1249,4,CUST-666,510.17,MOBILE_WALLET,FAILED,PAYMENT_FAILED,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1250,TXN-1250,3,CUST-793,348.2,CARD,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1251,TXN-1251,1,CUST-765,198.92,MOBILE_WALLET,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1252,TXN-1252,7,CUST-969,447.04,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1253,TXN-1253,10,CUST-682,371.1,CARD,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1254,TXN-1254,7,CUST-131,312.96,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1255,TXN-1255,1,CUST-416,287.8,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1256,TXN-1256,9,CUST-569,580.43,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1257,TXN-1257,3,CUST-574,20.93,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1258,TXN-1258,3,CUST-370,205.22,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1259,TXN-1259,2,CUST-458,511.86,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1260,TXN-1260,4,CUST-328,588.99,CASH,FAILED,PAYMENT_FAILED,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1261,TXN-1261,10,CUST-716,47.37,CASH,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1262,TXN-1262,1,CUST-594,575.59,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1263,TXN-1263,4,CUST-286,220.19,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1264,TXN-1264,3,CUST-672,37.74,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1265,TXN-1265,5,CUST-904,66.8,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1266,TXN-1266,5,CUST-524,433.28,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1267,TXN-1267,2,CUST-546,416.05,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1268,TXN-1268,5,CUST-987,532.14,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1269,TXN-1269,5,CUST-908,514.86,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1270,TXN-1270,2,CUST-455,286.82,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1271,TXN-1271,3,CUST-411,117.0,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1272,TXN-1272,8,CUST-216,245.15,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1273,TXN-1273,5,CUST-165,125.33,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1274,TXN-1274,4,CUST-457,435.12,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1275,TXN-1275,3,CUST-135,387.17,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1276,TXN-1276,6,CUST-788,183.91,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1277,TXN-1277,6,CUST-368,457.24,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1278,TXN-1278,10,CUST-311,210.8,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1279,TXN-1279,7,CUST-693,229.7,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1280,TXN-1280,2,CUST-116,455.13,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1281,TXN-1281,1,CUST-424,251.9,MOBILE_WALLET,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1282,TXN-1282,1,CUST-238,589.49,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1283,TXN-1283,3,CUST-555,228.06,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1284,TXN-1284,6,CUST-822,349.96,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1285,TXN-1285,3,CUST-966,145.91,CASH,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1286,TXN-1286,5,CUST-144,226.8,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1287,TXN-1287,7,CUST-502,380.0,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1288,TXN-1288,1,CUST-166,359.83,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1289,TXN-1289,1,CUST-951,550.15,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1290,TXN-1290,7,CUST-483,68.22,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1291,TXN-1291,4,CUST-994,481.32,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1292,TXN-1292,9,CUST-704,368.58,CARD,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1293,TXN-1293,2,CUST-106,402.57,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1294,TXN-1294,1,CUST-903,183.78,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1295,TXN-1295,1,CUST-942,214.25,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1296,TXN-1296,8,CUST-826,374.36,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1297,TXN-1297,9,CUST-194,82.55,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1298,TXN-1298,8,CUST-330,183.05,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1299,TXN-1299,9,CUST-620,48.1,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1300,TXN-1300,5,CUST-552,173.88,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1301,TXN-1301,1,CUST-630,95.55,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1302,TXN-1302,6,CUST-755,386.3,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1303,TXN-1303,8,CUST-866,198.56,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1304,TXN-1304,7,CUST-929,135.57,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1305,TXN-1305,7,CUST-764,238.89,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1306,TXN-1306,4,CUST-297,267.59,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1307,TXN-1307,8,CUST-221,233.71,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1308,TXN-1308,6,CUST-639,510.87,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1309,TXN-1309,9,CUST-693,188.88,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1310,TXN-1310,8,CUST-567,512.04,CASH,FAILED,PAYMENT_FAILED,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1311,TXN-1311,1,CUST-968,229.1,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1312,TXN-1312,1,CUST-303,557.69,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1313,TXN-1313,1,CUST-977,82.05,CASH,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1314,TXN-1314,10,CUST-551,396.93,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1315,TXN-1315,10,CUST-264,583.28,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1316,TXN-1316,9,CUST-639,212.91,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1317,TXN-1317,4,CUST-776,510.68,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1318,TXN-1318,5,CUST-610,395.25,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1319,TXN-1319,8,CUST-394,406.46,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1320,TXN-1320,4,CUST-750,314.94,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1321,TXN-1321,2,CUST-553,369.8,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1322,TXN-1322,5,CUST-672,87.17,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1323,TXN-1323,4,CUST-279,372.5,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1324,TXN-1324,3,CUST-637,549.98,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1325,TXN-1325,8,CUST-126,92.07,MOBILE_WALLET,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1326,TXN-1326,2,CUST-666,456.01,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1327,TXN-1327,7,CUST-981,254.67,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1328,TXN-1328,3,CUST-706,84.57,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1329,TXN-1329,1,CUST-275,545.07,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1330,TXN-1330,9,CUST-896,77.14,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1331,TXN-1331,10,CUST-742,121.71,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1332,TXN-1332,6,CUST-325,131.75,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1333,TXN-1333,7,CUST-907,593.48,MOBILE_WALLET,REFUNDED,REFUND_INITIATED,Refund Event,Medium,65,Refund event detected and should be reviewed for policy compliance.
+EVT-1334,TXN-1334,8,CUST-679,526.15,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1335,TXN-1335,8,CUST-764,428.15,CASH,FAILED,PAYMENT_FAILED,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1336,TXN-1336,1,CUST-425,101.63,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1337,TXN-1337,7,CUST-986,302.38,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1338,TXN-1338,1,CUST-103,400.7,MOBILE_WALLET,FAILED,PAYMENT_FAILED,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1339,TXN-1339,9,CUST-130,320.99,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1340,TXN-1340,6,CUST-521,160.35,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1341,TXN-1341,5,CUST-821,435.75,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1342,TXN-1342,5,CUST-806,324.12,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1343,TXN-1343,5,CUST-311,262.09,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1344,TXN-1344,2,CUST-668,296.26,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1345,TXN-1345,7,CUST-707,143.48,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1346,TXN-1346,8,CUST-811,315.77,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1347,TXN-1347,5,CUST-408,559.53,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1348,TXN-1348,1,CUST-833,399.46,MOBILE_WALLET,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1349,TXN-1349,4,CUST-810,236.86,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1350,TXN-1350,4,CUST-951,304.07,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1351,TXN-1351,4,CUST-989,31.79,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1352,TXN-1352,1,CUST-419,167.15,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1353,TXN-1353,4,CUST-632,518.65,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1354,TXN-1354,3,CUST-666,180.84,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1355,TXN-1355,9,CUST-218,47.39,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1356,TXN-1356,4,CUST-455,229.09,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1357,TXN-1357,10,CUST-832,70.02,CASH,SUCCESS,PAYMENT_SUCCESS,Duplicate Transaction,High,85,Same transaction ID appears multiple times and may indicate duplicate charge.
+EVT-1358,TXN-1358,1,CUST-931,256.65,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1359,TXN-1359,5,CUST-184,322.77,CASH,REFUNDED,REFUND_INITIATED,Refund Event,Medium,65,Refund event detected and should be reviewed for policy compliance.
+EVT-1360,TXN-1360,8,CUST-120,250.16,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1361,TXN-1361,1,CUST-773,182.26,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1362,TXN-1362,6,CUST-540,249.62,GIFT_CARD,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1363,TXN-1363,2,CUST-848,222.74,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1364,TXN-1364,9,CUST-559,384.42,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1365,TXN-1365,8,CUST-936,373.73,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1366,TXN-1366,1,CUST-498,434.9,GIFT_CARD,FAILED,PAYMENT_FAILED,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1367,TXN-1367,8,CUST-992,290.65,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1368,TXN-1368,8,CUST-433,224.71,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1369,TXN-1369,1,CUST-284,99.75,CASH,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1370,TXN-1370,7,CUST-833,78.85,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1371,TXN-1371,10,CUST-389,585.28,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1372,TXN-1372,1,CUST-439,396.75,CASH,REFUNDED,REFUND_INITIATED,Refund Event,Medium,65,Refund event detected and should be reviewed for policy compliance.
+EVT-1373,TXN-1373,9,CUST-196,171.61,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1374,TXN-1374,3,CUST-610,233.6,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1375,TXN-1375,10,CUST-981,183.27,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1376,TXN-1376,7,CUST-439,436.97,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1377,TXN-1377,10,CUST-830,27.1,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1378,TXN-1378,2,CUST-259,561.74,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1379,TXN-1379,9,CUST-242,244.07,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1380,TXN-1380,7,CUST-455,34.23,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1381,TXN-1381,7,CUST-602,464.65,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1382,TXN-1382,8,CUST-361,73.8,CARD,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1383,TXN-1383,3,CUST-487,599.17,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1384,TXN-1384,8,CUST-488,19.69,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1385,TXN-1385,2,CUST-647,93.81,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1386,TXN-1386,2,CUST-365,285.6,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1387,TXN-1387,10,CUST-487,24.46,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1388,TXN-1388,3,CUST-898,544.1,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1389,TXN-1389,8,CUST-461,590.59,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1390,TXN-1390,6,CUST-697,523.34,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1391,TXN-1391,10,CUST-625,107.68,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1392,TXN-1392,5,CUST-556,490.5,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1393,TXN-1393,6,CUST-715,564.9,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1394,TXN-1394,5,CUST-447,433.7,GIFT_CARD,FAILED,PAYMENT_FAILED,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1395,TXN-1395,5,CUST-797,421.81,MOBILE_WALLET,FAILED,PAYMENT_FAILED,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1396,TXN-1396,8,CUST-755,421.11,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1397,TXN-1397,6,CUST-900,482.87,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1398,TXN-1398,8,CUST-540,81.16,CASH,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1399,TXN-1399,1,CUST-292,406.58,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1400,TXN-1400,2,CUST-416,337.21,GIFT_CARD,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1401,TXN-1401,8,CUST-535,265.71,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1402,TXN-1402,1,CUST-806,563.01,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1403,TXN-1403,10,CUST-320,177.65,GIFT_CARD,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1404,TXN-1404,7,CUST-793,503.52,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1405,TXN-1405,4,CUST-468,440.69,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1406,TXN-1406,4,CUST-482,33.91,GIFT_CARD,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1407,TXN-1407,1,CUST-824,147.96,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1408,TXN-1408,10,CUST-444,231.88,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1409,TXN-1409,3,CUST-919,319.32,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1410,TXN-1410,4,CUST-864,302.45,MOBILE_WALLET,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1411,TXN-1411,6,CUST-504,479.45,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1412,TXN-1412,6,CUST-759,38.19,CASH,SUCCESS,PAYMENT_SUCCESS,Duplicate Transaction,High,85,Same transaction ID appears multiple times and may indicate duplicate charge.
+EVT-1413,TXN-1413,9,CUST-441,462.27,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1414,TXN-1414,6,CUST-950,420.35,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1415,TXN-1415,5,CUST-567,309.55,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1416,TXN-1416,5,CUST-817,230.57,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1417,TXN-1417,8,CUST-603,31.48,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1418,TXN-1418,7,CUST-744,70.11,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1419,TXN-1419,1,CUST-999,427.26,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1420,TXN-1420,4,CUST-601,51.41,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1421,TXN-1421,1,CUST-348,355.76,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1422,TXN-1422,8,CUST-973,240.8,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1423,TXN-1423,5,CUST-633,317.67,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1424,TXN-1424,1,CUST-232,188.82,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1425,TXN-1425,6,CUST-601,553.34,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1426,TXN-1426,1,CUST-674,234.39,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1427,TXN-1427,10,CUST-989,387.34,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1428,TXN-1428,3,CUST-667,142.29,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1429,TXN-1429,8,CUST-927,75.45,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1430,TXN-1430,7,CUST-300,465.05,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1431,TXN-1431,2,CUST-281,496.19,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1432,TXN-1432,5,CUST-408,485.37,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1433,TXN-1433,7,CUST-590,149.63,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1434,TXN-1434,1,CUST-157,488.1,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1435,TXN-1435,9,CUST-256,25.81,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1436,TXN-1436,4,CUST-600,430.31,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1437,TXN-1437,10,CUST-872,519.8,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1438,TXN-1438,10,CUST-753,61.29,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1439,TXN-1439,1,CUST-681,321.85,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1440,TXN-1440,6,CUST-878,322.45,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1441,TXN-1441,5,CUST-419,476.27,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1442,TXN-1442,6,CUST-617,306.99,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1443,TXN-1443,1,CUST-912,102.52,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1444,TXN-1444,3,CUST-294,588.71,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1445,TXN-1445,5,CUST-689,373.13,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1446,TXN-1446,2,CUST-848,358.5,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1447,TXN-1447,4,CUST-500,258.93,MOBILE_WALLET,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1448,TXN-1448,10,CUST-892,531.75,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1449,TXN-1449,3,CUST-414,287.06,GIFT_CARD,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1450,TXN-1450,5,CUST-330,487.72,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1451,TXN-1451,2,CUST-528,229.4,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1452,TXN-1452,10,CUST-332,366.59,CASH,SUCCESS,PAYMENT_SUCCESS,Duplicate Transaction,High,85,Same transaction ID appears multiple times and may indicate duplicate charge.
+EVT-1453,TXN-1453,9,CUST-638,372.47,CASH,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1454,TXN-1454,3,CUST-514,253.1,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1455,TXN-1455,7,CUST-998,154.53,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1456,TXN-1456,6,CUST-338,324.47,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1457,TXN-1457,1,CUST-531,598.89,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Duplicate Transaction,High,85,Same transaction ID appears multiple times and may indicate duplicate charge.
+EVT-1458,TXN-1458,2,CUST-714,156.5,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1459,TXN-1459,9,CUST-280,89.18,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1460,TXN-1460,3,CUST-346,256.01,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1461,TXN-1461,3,CUST-888,566.44,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1462,TXN-1462,7,CUST-558,432.26,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1463,TXN-1463,1,CUST-842,282.54,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1464,TXN-1464,2,CUST-402,111.5,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1465,TXN-1465,10,CUST-530,331.03,CASH,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1466,TXN-1466,9,CUST-377,363.87,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1467,TXN-1467,6,CUST-735,338.17,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1468,TXN-1468,1,CUST-856,202.58,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1469,TXN-1469,6,CUST-315,595.21,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1470,TXN-1470,5,CUST-541,427.14,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1471,TXN-1471,4,CUST-677,75.85,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1472,TXN-1472,5,CUST-635,179.24,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1473,TXN-1473,7,CUST-615,184.73,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1474,TXN-1474,2,CUST-693,282.17,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1475,TXN-1475,9,CUST-568,409.57,CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1476,TXN-1476,2,CUST-129,592.07,CARD,REFUNDED,REFUND_INITIATED,Refund Event,Medium,65,Refund event detected and should be reviewed for policy compliance.
+EVT-1477,TXN-1477,10,CUST-367,590.75,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1478,TXN-1478,3,CUST-604,165.39,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1479,TXN-1479,8,CUST-515,109.19,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1480,TXN-1480,3,CUST-848,261.93,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1481,TXN-1481,6,CUST-736,401.01,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1482,TXN-1482,3,CUST-676,549.23,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1483,TXN-1483,8,CUST-460,289.81,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1484,TXN-1484,5,CUST-770,318.4,CARD,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1485,TXN-1485,4,CUST-963,447.74,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1486,TXN-1486,7,CUST-614,223.18,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1487,TXN-1487,1,CUST-612,208.38,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1488,TXN-1488,6,CUST-943,547.32,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1489,TXN-1489,8,CUST-226,260.48,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1490,TXN-1490,5,CUST-985,179.64,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1491,TXN-1491,8,CUST-547,248.47,CARD,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1492,TXN-1492,9,CUST-355,355.18,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1493,TXN-1493,3,CUST-434,106.88,CARD,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1494,TXN-1494,5,CUST-809,402.77,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1495,TXN-1495,10,CUST-684,385.93,CASH,SUCCESS,PAYMENT_SUCCESS,Normal,Low,0,No risk detected
+EVT-1496,TXN-1496,1,CUST-371,569.44,CASH,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1497,TXN-1497,1,CUST-421,514.2,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,High-Value Transaction,High,75,Transaction amount exceeds high-value threshold and may require review.
+EVT-1498,TXN-1498,9,CUST-551,347.51,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Duplicate Transaction,High,85,Same transaction ID appears multiple times and may indicate duplicate charge.
+EVT-1499,TXN-1499,3,CUST-643,334.71,GIFT_CARD,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-1500,TXN-1500,8,CUST-865,7.69,CASH,FAILED,PAYMENT_FAILED,Failed Payment,Medium,60,Payment transaction failed and may require retry or customer follow-up.
+EVT-DUP-6066,TXN-1110,3,CUST-338,460.81,CASH,SUCCESS,PAYMENT_SUCCESS,Duplicate Transaction,High,85,Same transaction ID appears multiple times and may indicate duplicate charge.
+EVT-DUP-1476,TXN-1084,1,CUST-914,431.09,CASH,SUCCESS,PAYMENT_SUCCESS,Duplicate Transaction,High,85,Same transaction ID appears multiple times and may indicate duplicate charge.
+EVT-DUP-3774,TXN-1207,10,CUST-355,192.14,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Duplicate Transaction,High,85,Same transaction ID appears multiple times and may indicate duplicate charge.
+EVT-DUP-4228,TXN-1060,6,CUST-431,299.13,CARD,SUCCESS,PAYMENT_SUCCESS,Duplicate Transaction,High,85,Same transaction ID appears multiple times and may indicate duplicate charge.
+EVT-DUP-7139,TXN-1457,1,CUST-531,598.89,GIFT_CARD,SUCCESS,PAYMENT_SUCCESS,Duplicate Transaction,High,85,Same transaction ID appears multiple times and may indicate duplicate charge.
+EVT-DUP-4321,TXN-1498,9,CUST-551,347.51,MOBILE_WALLET,SUCCESS,PAYMENT_SUCCESS,Duplicate Transaction,High,85,Same transaction ID appears multiple times and may indicate duplicate charge.
+EVT-DUP-9046,TXN-1452,10,CUST-332,366.59,CASH,SUCCESS,PAYMENT_SUCCESS,Duplicate Transaction,High,85,Same transaction ID appears multiple times and may indicate duplicate charge.
+EVT-DUP-1159,TXN-1153,1,CUST-428,356.5,CASH,SUCCESS,PAYMENT_SUCCESS,Duplicate Transaction,High,85,Same transaction ID appears multiple times and may indicate duplicate charge.
+EVT-DUP-3858,TXN-1412,6,CUST-759,38.19,CASH,SUCCESS,PAYMENT_SUCCESS,Duplicate Transaction,High,85,Same transaction ID appears multiple times and may indicate duplicate charge.
+EVT-DUP-1643,TXN-1357,10,CUST-832,70.02,CASH,SUCCESS,PAYMENT_SUCCESS,Duplicate Transaction,High,85,Same transaction ID appears multiple times and may indicate duplicate charge.

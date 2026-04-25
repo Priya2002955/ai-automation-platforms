@@ -1,0 +1,511 @@
+audit_id,action_id,transaction_id,agent_name,decision,action_taken,approval_status,before_state,after_state,timestamp
+AUD-93cbc0ad,ACT-86b47680,TXN-1001,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.166091
+AUD-f321cd37,ACT-277afe7b,TXN-1002,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.166319
+AUD-6275cf85,ACT-5f8a7257,TXN-1003,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.166476
+AUD-9851d14c,ACT-74bab99f,TXN-1004,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.166570
+AUD-ca283121,ACT-2925a682,TXN-1005,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.166661
+AUD-c22c2e80,ACT-b19fc56f,TXN-1006,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.166753
+AUD-210ef5ca,ACT-eeb63000,TXN-1007,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.166860
+AUD-f6630a0e,ACT-85f90d7c,TXN-1008,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.167054
+AUD-8ef5c0d3,ACT-9d82b3dc,TXN-1009,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.167158
+AUD-42249130,ACT-84d8e327,TXN-1010,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.167249
+AUD-a7cf8dff,ACT-5b55d8c0,TXN-1011,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.167338
+AUD-f148cac7,ACT-28e01be7,TXN-1012,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.167434
+AUD-d266bb79,ACT-c6f6ec71,TXN-1013,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.167531
+AUD-319837de,ACT-d365247a,TXN-1014,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.167620
+AUD-f146f336,ACT-398b5471,TXN-1015,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.167713
+AUD-d15d8936,ACT-d9dd5671,TXN-1016,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.167800
+AUD-547724b9,ACT-01f7a344,TXN-1017,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.167902
+AUD-1663ac4e,ACT-aab4af41,TXN-1018,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.168002
+AUD-828303e7,ACT-34bf62d1,TXN-1019,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.168090
+AUD-e289b1b6,ACT-ec23a09d,TXN-1020,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.168184
+AUD-1b18f92b,ACT-cf388a8b,TXN-1021,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.168271
+AUD-66e644bf,ACT-bbb2cbd2,TXN-1022,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.168361
+AUD-a6848ea7,ACT-621cb25d,TXN-1023,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.168455
+AUD-1a4a720d,ACT-c2252840,TXN-1024,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.168546
+AUD-6daf9987,ACT-107d42a5,TXN-1025,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.168642
+AUD-85802291,ACT-1c598085,TXN-1026,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.168739
+AUD-485ab16a,ACT-f3293926,TXN-1027,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.168825
+AUD-beb25022,ACT-3730f7bd,TXN-1028,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.168923
+AUD-a30551ad,ACT-5c7afe3a,TXN-1029,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.169009
+AUD-6293942d,ACT-2651d975,TXN-1030,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.169106
+AUD-024849dd,ACT-63693540,TXN-1031,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.169192
+AUD-bccd283d,ACT-97f9c946,TXN-1032,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.169287
+AUD-7492b182,ACT-04d1621e,TXN-1033,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.169383
+AUD-7ec16232,ACT-b989cd18,TXN-1034,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.169480
+AUD-b3bdf2d6,ACT-639a041c,TXN-1035,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.169566
+AUD-9a490a15,ACT-5ffe8f0a,TXN-1036,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.169656
+AUD-7d1397a6,ACT-1a47ccad,TXN-1037,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.169743
+AUD-a01c313c,ACT-9ee3a40b,TXN-1038,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.169828
+AUD-292e40ec,ACT-ec36f206,TXN-1039,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.169914
+AUD-2e1a6c8d,ACT-ba101e91,TXN-1040,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.169999
+AUD-d7513db8,ACT-8076047f,TXN-1041,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.170085
+AUD-35e8f1ea,ACT-a963ec16,TXN-1042,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.170171
+AUD-4a0796b7,ACT-36fc6463,TXN-1043,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.170261
+AUD-f89e69e3,ACT-df5b97b8,TXN-1044,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.170349
+AUD-638d9be6,ACT-911aa17e,TXN-1045,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.170438
+AUD-67e7a224,ACT-93fc73f5,TXN-1046,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.170528
+AUD-bd9b25a2,ACT-90e32a97,TXN-1047,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.170614
+AUD-ffb1bb4f,ACT-22138039,TXN-1048,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.170699
+AUD-4123922e,ACT-37afee1d,TXN-1049,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.170787
+AUD-74e8e66c,ACT-d52a0066,TXN-1050,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.170900
+AUD-dc88f0e1,ACT-6b255a63,TXN-1051,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.170989
+AUD-b13febe1,ACT-8e611397,TXN-1052,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.171082
+AUD-8ae61939,ACT-1d59b7bb,TXN-1053,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.171170
+AUD-e1bf5696,ACT-cfc30e60,TXN-1054,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.171256
+AUD-6c5c7c22,ACT-456d7b41,TXN-1055,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.171343
+AUD-86879bcb,ACT-a747ed50,TXN-1056,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.171434
+AUD-7e9fc61f,ACT-b4087bd5,TXN-1057,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.171520
+AUD-7cfd7404,ACT-e615ba9b,TXN-1058,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.171607
+AUD-ae96016d,ACT-eb4b835e,TXN-1059,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.171692
+AUD-5a48f1a4,ACT-cac2d532,TXN-1060,PaymentAutomationAgent,Flag for Investigation,No action,Pending Approval,Duplicate Transaction,Skipped,2026-04-25T14:01:51.171776
+AUD-f17afcfa,ACT-13bc9e67,TXN-1061,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.171862
+AUD-7044cd13,ACT-d90e9206,TXN-1062,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.171947
+AUD-00681134,ACT-9052f4c4,TXN-1063,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.172031
+AUD-165d1208,ACT-62fcb39e,TXN-1064,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.172117
+AUD-14522067,ACT-80c81676,TXN-1065,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.172211
+AUD-4d3e3cc1,ACT-b91b012b,TXN-1066,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.172299
+AUD-c3b76399,ACT-0e48ab54,TXN-1067,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.172383
+AUD-80c73679,ACT-491e71bd,TXN-1068,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.172467
+AUD-276b0739,ACT-03bca13d,TXN-1069,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.172552
+AUD-af732cfe,ACT-70218af2,TXN-1070,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.172637
+AUD-a515eefb,ACT-e0a94413,TXN-1071,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.172721
+AUD-276cd3d3,ACT-52ca09b2,TXN-1072,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.172804
+AUD-acdf33ba,ACT-938660a3,TXN-1073,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.172897
+AUD-eb4871ae,ACT-b8243077,TXN-1074,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.172984
+AUD-4adae9dd,ACT-491e9534,TXN-1075,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.173074
+AUD-9ccfca41,ACT-1b7f319e,TXN-1076,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.173159
+AUD-670ae1d2,ACT-28ed26be,TXN-1077,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.173245
+AUD-d12d0690,ACT-4397868b,TXN-1078,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.173333
+AUD-1ee8891a,ACT-d4b57610,TXN-1079,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.173418
+AUD-b5d6a736,ACT-d327863b,TXN-1080,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.173502
+AUD-fd19c6df,ACT-e2e78cee,TXN-1081,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.173592
+AUD-36e22a70,ACT-b6dd7196,TXN-1082,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.173678
+AUD-c641ba94,ACT-d0386a0a,TXN-1083,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.173762
+AUD-1f322fe8,ACT-7067a534,TXN-1084,PaymentAutomationAgent,Flag for Investigation,No action,Pending Approval,Duplicate Transaction,Skipped,2026-04-25T14:01:51.173846
+AUD-6d06c2f3,ACT-582c23eb,TXN-1085,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.173937
+AUD-2d1e4575,ACT-9abde8a9,TXN-1086,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.174099
+AUD-458c023a,ACT-12341bc8,TXN-1087,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.174234
+AUD-e738c92b,ACT-115e7614,TXN-1088,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.174320
+AUD-8e817230,ACT-8da0e158,TXN-1089,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.174405
+AUD-c3b99ca5,ACT-e92fb0d8,TXN-1090,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.174490
+AUD-38055699,ACT-fdeb4962,TXN-1091,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.174574
+AUD-c552fcc2,ACT-7f643ab3,TXN-1092,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.174763
+AUD-ca8e7ad7,ACT-539cd8b0,TXN-1093,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.174880
+AUD-b359d17c,ACT-5e1a00e3,TXN-1094,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.174977
+AUD-f55af364,ACT-22ed55a8,TXN-1095,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.175070
+AUD-500ccdf1,ACT-cc24068c,TXN-1096,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.175154
+AUD-374162d1,ACT-4e87cfab,TXN-1097,PaymentAutomationAgent,Compliance Review,No action,Pending Approval,Refund Event,Skipped,2026-04-25T14:01:51.175244
+AUD-e7d80952,ACT-0f90f0e1,TXN-1098,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.175330
+AUD-609d46bf,ACT-bbe9b096,TXN-1099,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.175434
+AUD-a77e4651,ACT-af6aa739,TXN-1100,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.175519
+AUD-deb09dc3,ACT-408af8c2,TXN-1101,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.175615
+AUD-c7baea6f,ACT-4b129ed5,TXN-1102,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.175700
+AUD-375c2bcb,ACT-a2ea4440,TXN-1103,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.175785
+AUD-57932f81,ACT-89a0f491,TXN-1104,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.175918
+AUD-04f9b3c3,ACT-0cbd6b8b,TXN-1105,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.176020
+AUD-cbc883a0,ACT-e722c307,TXN-1106,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.176112
+AUD-3977c210,ACT-526038c9,TXN-1107,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.176198
+AUD-6aec08a8,ACT-a914a4ae,TXN-1108,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.176290
+AUD-016bbf6d,ACT-9c32aa41,TXN-1109,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.176394
+AUD-d313286b,ACT-6e477b5d,TXN-1110,PaymentAutomationAgent,Flag for Investigation,No action,Pending Approval,Duplicate Transaction,Skipped,2026-04-25T14:01:51.176488
+AUD-35e31486,ACT-9d43c0a0,TXN-1111,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.176581
+AUD-51af9ed9,ACT-9afa0c55,TXN-1112,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.176672
+AUD-1ff61e2a,ACT-ad3001bf,TXN-1113,PaymentAutomationAgent,Compliance Review,No action,Pending Approval,Refund Event,Skipped,2026-04-25T14:01:51.176767
+AUD-5a1c73e5,ACT-4b339ea4,TXN-1114,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.176873
+AUD-26267cc1,ACT-81d2c7b5,TXN-1115,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.176961
+AUD-c8ad67a8,ACT-bf9745d3,TXN-1116,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.177047
+AUD-a04b09e4,ACT-aa6de059,TXN-1117,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.177832
+AUD-96ba0307,ACT-52a5c290,TXN-1118,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.177943
+AUD-523efd74,ACT-57ce6da2,TXN-1119,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.178032
+AUD-c453f257,ACT-ad9f6d00,TXN-1120,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.178117
+AUD-3beb216b,ACT-0be9f45d,TXN-1121,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.178207
+AUD-2eee2fa1,ACT-5951e467,TXN-1122,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.178294
+AUD-ae3e34e1,ACT-09126d98,TXN-1123,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.178379
+AUD-348319ec,ACT-09a07572,TXN-1124,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.178481
+AUD-35d92e3c,ACT-f86dbbb3,TXN-1125,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.178567
+AUD-b64350ae,ACT-3497d839,TXN-1126,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.178651
+AUD-f7ed3935,ACT-30dd5b60,TXN-1127,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.178736
+AUD-dc3390c2,ACT-6518e7bc,TXN-1128,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.178821
+AUD-2bc8263e,ACT-693eaebd,TXN-1129,PaymentAutomationAgent,Compliance Review,No action,Pending Approval,Refund Event,Skipped,2026-04-25T14:01:51.179005
+AUD-665ec2ab,ACT-1a83ff2a,TXN-1130,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.179137
+AUD-ed2a2c71,ACT-81c17dd6,TXN-1131,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.179226
+AUD-7fef8126,ACT-89f83cf2,TXN-1132,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.179311
+AUD-c8123419,ACT-b1c05dea,TXN-1133,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.179411
+AUD-cfd21dd7,ACT-bae6be63,TXN-1134,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.179507
+AUD-881449ec,ACT-420d7a60,TXN-1135,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.179782
+AUD-e56312bf,ACT-fb16ac3a,TXN-1136,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.180111
+AUD-5ded9e82,ACT-fb122256,TXN-1137,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.180492
+AUD-8332d9fa,ACT-6569f79f,TXN-1138,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.180666
+AUD-f9da2cd6,ACT-c6be68c3,TXN-1139,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.180789
+AUD-56fcc3bd,ACT-4dfc384b,TXN-1140,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.180911
+AUD-75b4a6a3,ACT-975d70b2,TXN-1141,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.181036
+AUD-1c323939,ACT-3d518191,TXN-1142,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.181162
+AUD-d43ec668,ACT-775c6eb8,TXN-1143,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.181309
+AUD-5b788630,ACT-e42c5fbd,TXN-1144,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.181443
+AUD-aa3bde85,ACT-466f3028,TXN-1145,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.181606
+AUD-640e79b3,ACT-7fd5701b,TXN-1146,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.181752
+AUD-739dff0d,ACT-3a6517bc,TXN-1147,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.181880
+AUD-87225dde,ACT-8fc9b9fd,TXN-1148,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.182022
+AUD-63cd5372,ACT-d75d89dd,TXN-1149,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.182158
+AUD-ebb3f7b5,ACT-a9bab796,TXN-1150,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.182296
+AUD-8e7b61a8,ACT-b1d34649,TXN-1151,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.182440
+AUD-00365dd9,ACT-d0bd95a3,TXN-1152,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.182579
+AUD-d3430407,ACT-fdca6cd0,TXN-1153,PaymentAutomationAgent,Flag for Investigation,No action,Pending Approval,Duplicate Transaction,Skipped,2026-04-25T14:01:51.182709
+AUD-2ba040b6,ACT-6df702e1,TXN-1154,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.182795
+AUD-705fb2a7,ACT-9e30e29d,TXN-1155,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.182882
+AUD-40078ef1,ACT-e3ef7e3d,TXN-1156,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.182968
+AUD-bf3873c7,ACT-e645f2ce,TXN-1157,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.183053
+AUD-7a306ef8,ACT-d5a0b558,TXN-1158,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.183140
+AUD-345b6c9f,ACT-d4ef1374,TXN-1159,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.183225
+AUD-f76a611b,ACT-0981102c,TXN-1160,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.183310
+AUD-e3a77c9c,ACT-e392a4fe,TXN-1161,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.183401
+AUD-5dc69fca,ACT-f768656e,TXN-1162,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.183489
+AUD-faee407f,ACT-8aac814c,TXN-1163,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.183585
+AUD-f820ba2e,ACT-9c89dda5,TXN-1164,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.183675
+AUD-657bc72d,ACT-9b5aeee7,TXN-1165,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.183760
+AUD-abd8a51d,ACT-80e50a0d,TXN-1166,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.183845
+AUD-7f545001,ACT-b42724e9,TXN-1167,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.183930
+AUD-8e64dc04,ACT-95b28a6c,TXN-1168,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.184015
+AUD-6feb3cbe,ACT-d9bc330c,TXN-1169,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.184100
+AUD-30e9cfdd,ACT-7c450aa7,TXN-1170,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.184186
+AUD-26cccbe9,ACT-47d69de3,TXN-1171,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.184271
+AUD-8f05c78c,ACT-4dcaa8fb,TXN-1172,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.184364
+AUD-ade1c3dd,ACT-8d8d4e6b,TXN-1173,PaymentAutomationAgent,Compliance Review,No action,Pending Approval,Refund Event,Skipped,2026-04-25T14:01:51.184457
+AUD-497d08fe,ACT-34e69c61,TXN-1174,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.184549
+AUD-0992583b,ACT-931ae10b,TXN-1175,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.184634
+AUD-f54d5069,ACT-4341433a,TXN-1176,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.184719
+AUD-ae53d562,ACT-97a268f7,TXN-1177,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.184809
+AUD-afcf11eb,ACT-68b82da7,TXN-1178,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.184895
+AUD-3bdc1dda,ACT-9fb32b9c,TXN-1179,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.184979
+AUD-7f2f72f2,ACT-71de0a53,TXN-1180,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.185064
+AUD-b8f8a3b6,ACT-38043943,TXN-1181,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.185150
+AUD-49c45ee9,ACT-83f2958d,TXN-1182,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.185238
+AUD-533904ed,ACT-ae95d83a,TXN-1183,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.185322
+AUD-006ef2fe,ACT-a3144c71,TXN-1184,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.185408
+AUD-c76b79e6,ACT-19441a41,TXN-1185,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.185493
+AUD-8010197d,ACT-429581ea,TXN-1186,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.185577
+AUD-51a920cb,ACT-64a70d1f,TXN-1187,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.185662
+AUD-2d8495d3,ACT-d1f94bf3,TXN-1188,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.185747
+AUD-3cdff673,ACT-25980baf,TXN-1189,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.185831
+AUD-86d1608a,ACT-85675865,TXN-1190,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.185915
+AUD-65d06239,ACT-4cf7aada,TXN-1191,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.186000
+AUD-0f975f45,ACT-19a23e92,TXN-1192,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.186091
+AUD-980c0732,ACT-20fca5ef,TXN-1193,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.186180
+AUD-79e57613,ACT-d78f6c22,TXN-1194,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.186265
+AUD-d389fd83,ACT-eeaf8e47,TXN-1195,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.186354
+AUD-bcc6bf1e,ACT-b8da6e2c,TXN-1196,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.186447
+AUD-3fd61dd0,ACT-f7d7e93e,TXN-1197,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.186532
+AUD-7b084671,ACT-bfcd7d57,TXN-1198,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.186616
+AUD-fdd91e9d,ACT-11a50321,TXN-1199,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.186700
+AUD-ad12e5cf,ACT-19a7c421,TXN-1200,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.186786
+AUD-0230edf0,ACT-f7c82d3f,TXN-1201,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.186871
+AUD-0a587c69,ACT-1e89d7c3,TXN-1202,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.186964
+AUD-f6d588ce,ACT-945e0ce3,TXN-1203,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.187051
+AUD-7ff59868,ACT-441d6346,TXN-1204,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.187142
+AUD-69a37aa7,ACT-eea1bffd,TXN-1205,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.187227
+AUD-e2911104,ACT-5dec9ca1,TXN-1206,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.187311
+AUD-a2ec5d56,ACT-086a4754,TXN-1207,PaymentAutomationAgent,Flag for Investigation,No action,Pending Approval,Duplicate Transaction,Skipped,2026-04-25T14:01:51.187405
+AUD-2ecfd973,ACT-6bc1cbf2,TXN-1208,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.187490
+AUD-ea3a88fe,ACT-583aa281,TXN-1209,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.187579
+AUD-10228e8a,ACT-5b278bf8,TXN-1210,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.187664
+AUD-7a8a3971,ACT-43d8f380,TXN-1211,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.187748
+AUD-18c6ad1b,ACT-d09832ea,TXN-1212,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.187838
+AUD-2e98efcb,ACT-eccdfae9,TXN-1213,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.187923
+AUD-c6cd27bc,ACT-cde5cf8f,TXN-1214,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.188007
+AUD-1ac591b5,ACT-8c9c9b74,TXN-1215,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.188092
+AUD-9214e6c2,ACT-4c3ab565,TXN-1216,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.188177
+AUD-490e474a,ACT-22ea6e81,TXN-1217,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.188261
+AUD-d922adaf,ACT-03d04ee7,TXN-1218,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.188356
+AUD-77c03485,ACT-f1045767,TXN-1219,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.188445
+AUD-3fd62765,ACT-6b65884a,TXN-1220,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.188538
+AUD-e2ea8854,ACT-187447f2,TXN-1221,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.188627
+AUD-0675decc,ACT-6f933ae3,TXN-1222,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.188720
+AUD-e36ed262,ACT-39a2bb99,TXN-1223,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.188810
+AUD-c28ef6bd,ACT-f71aca00,TXN-1224,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.188895
+AUD-c3480257,ACT-26d7f91f,TXN-1225,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.188985
+AUD-aa835f01,ACT-4abc71fd,TXN-1226,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.189070
+AUD-81e07aba,ACT-51684241,TXN-1227,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.189154
+AUD-4915d1a8,ACT-2b8596a9,TXN-1228,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.189244
+AUD-38f0bbf6,ACT-9e366e92,TXN-1229,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.189329
+AUD-419aeea2,ACT-4824f472,TXN-1230,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.189421
+AUD-86ae0e59,ACT-729a0384,TXN-1231,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.189514
+AUD-e2a72872,ACT-c8d4aa34,TXN-1232,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.189599
+AUD-b7abba51,ACT-8000499f,TXN-1233,PaymentAutomationAgent,Compliance Review,No action,Pending Approval,Refund Event,Skipped,2026-04-25T14:01:51.189684
+AUD-deb88965,ACT-4abd3144,TXN-1234,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.189774
+AUD-e48ca0de,ACT-b62d5587,TXN-1235,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.189871
+AUD-3fd6e5ef,ACT-b0e3d9de,TXN-1236,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.189967
+AUD-07fd1851,ACT-10510371,TXN-1237,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.190057
+AUD-155f34db,ACT-9021bdd9,TXN-1238,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.190147
+AUD-58eccd52,ACT-f8f8c63e,TXN-1239,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.190233
+AUD-f3a6660c,ACT-0689ab19,TXN-1240,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.190322
+AUD-4cd45bbd,ACT-80653d63,TXN-1241,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.190433
+AUD-c8fb62c0,ACT-1612d20e,TXN-1242,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.190519
+AUD-0f6a203e,ACT-dac11adc,TXN-1243,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.190620
+AUD-d3633400,ACT-8c5e847c,TXN-1244,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.190750
+AUD-a399a87a,ACT-4e51ec09,TXN-1245,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.190873
+AUD-09277c6d,ACT-262baa20,TXN-1246,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.190973
+AUD-3d7589ef,ACT-901c027f,TXN-1247,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.191073
+AUD-7633e9a4,ACT-efad5595,TXN-1248,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.191160
+AUD-b764eeda,ACT-c1132972,TXN-1249,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.191253
+AUD-59a8d08f,ACT-0974415a,TXN-1250,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.191336
+AUD-ac2c151a,ACT-38e1b675,TXN-1251,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.191425
+AUD-b822f48f,ACT-27138587,TXN-1252,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.191514
+AUD-ee7f4958,ACT-19d3291b,TXN-1253,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.191609
+AUD-e8fbff5a,ACT-d28a8479,TXN-1254,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.191693
+AUD-3f7924b9,ACT-0357bf13,TXN-1255,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.191795
+AUD-2dea60d9,ACT-f81e76c4,TXN-1256,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.191881
+AUD-9780657d,ACT-3c8c8241,TXN-1257,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.191972
+AUD-6d63a2d6,ACT-466be807,TXN-1258,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.192061
+AUD-d8795c22,ACT-12e5499b,TXN-1259,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.192147
+AUD-d68e7c00,ACT-4331cb60,TXN-1260,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.192237
+AUD-f5b80578,ACT-dbe62ae3,TXN-1261,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.192321
+AUD-7ec8a6da,ACT-58780108,TXN-1262,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.192414
+AUD-5ff0b5be,ACT-5208184b,TXN-1263,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.192498
+AUD-47183129,ACT-d1f1c7b2,TXN-1264,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.192582
+AUD-ca15d0ac,ACT-5c02d85b,TXN-1265,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.192667
+AUD-b3fd8767,ACT-d032bd8c,TXN-1266,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.192751
+AUD-d64b74e5,ACT-35d902bc,TXN-1267,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.192836
+AUD-69097136,ACT-97a51bf9,TXN-1268,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.192920
+AUD-38efa5cb,ACT-369c6ade,TXN-1269,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.193004
+AUD-8b0e63d1,ACT-a19974b6,TXN-1270,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.193106
+AUD-c4d7a0b7,ACT-12f10301,TXN-1271,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.193190
+AUD-fa707557,ACT-853088ac,TXN-1272,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.193275
+AUD-e8660e1f,ACT-6978657d,TXN-1273,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.193364
+AUD-4403ad03,ACT-d75d4cdc,TXN-1274,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.193449
+AUD-daf8b7ac,ACT-3b1636da,TXN-1275,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.193535
+AUD-9f2504f1,ACT-b4c7c611,TXN-1276,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.193620
+AUD-f84f60e7,ACT-b6296a68,TXN-1277,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.193704
+AUD-1f6bba3c,ACT-b3d4c37d,TXN-1278,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.193788
+AUD-99f376a5,ACT-87f5e514,TXN-1279,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.193871
+AUD-d10d911a,ACT-56faeada,TXN-1280,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.193961
+AUD-85cef61e,ACT-78c41e9f,TXN-1281,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.194045
+AUD-d8cf6ef6,ACT-7bf47c75,TXN-1282,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.194129
+AUD-c2510c2a,ACT-617a659e,TXN-1283,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.194213
+AUD-704edd68,ACT-994f07c5,TXN-1284,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.194297
+AUD-91c9ff4f,ACT-29505a66,TXN-1285,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.194388
+AUD-b636d721,ACT-16d41a3f,TXN-1286,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.194473
+AUD-8dd0d309,ACT-f0609f17,TXN-1287,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.194557
+AUD-48344562,ACT-071f10a7,TXN-1288,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.194642
+AUD-252f964c,ACT-48521079,TXN-1289,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.194731
+AUD-487320b8,ACT-6a8fcb4c,TXN-1290,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.194818
+AUD-bacfb37e,ACT-83f3bfaa,TXN-1291,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.194903
+AUD-96b99847,ACT-c11c9212,TXN-1292,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.194987
+AUD-eb7f7c28,ACT-11ed4f97,TXN-1293,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.195070
+AUD-899b750c,ACT-120e95cf,TXN-1294,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.195154
+AUD-6788e457,ACT-2f44ffae,TXN-1295,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.195237
+AUD-67230b24,ACT-9e779f9c,TXN-1296,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.195321
+AUD-f08c2b6e,ACT-a754328a,TXN-1297,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.195406
+AUD-a3897ff3,ACT-f5e9c942,TXN-1298,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.195495
+AUD-f549ca10,ACT-be38e268,TXN-1299,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.195639
+AUD-20bc5901,ACT-66378025,TXN-1300,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.195828
+AUD-5ad623d5,ACT-36954220,TXN-1301,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.195939
+AUD-6b5a57fc,ACT-8730f388,TXN-1302,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.196035
+AUD-b01ad42c,ACT-ae1cd477,TXN-1303,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.196119
+AUD-5c294e9a,ACT-1878b2df,TXN-1304,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.196214
+AUD-4071f445,ACT-1054765f,TXN-1305,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.196316
+AUD-3966b3af,ACT-46504477,TXN-1306,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.196414
+AUD-3a0e9a7c,ACT-72c8b4a1,TXN-1307,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.196532
+AUD-3c7a7ff2,ACT-148d7a97,TXN-1308,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.197265
+AUD-420b40e9,ACT-66516999,TXN-1309,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.197757
+AUD-50652a7b,ACT-83844261,TXN-1310,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.197991
+AUD-087530a7,ACT-4dc432d1,TXN-1311,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.198145
+AUD-d493556c,ACT-39ce2d84,TXN-1312,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.198303
+AUD-507587a7,ACT-44381bc2,TXN-1313,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.198548
+AUD-e7a0449b,ACT-54f141fa,TXN-1314,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.198801
+AUD-7e470e66,ACT-bac62b64,TXN-1315,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.198964
+AUD-f921223e,ACT-27ae23fd,TXN-1316,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.199062
+AUD-9a6570a0,ACT-72b62275,TXN-1317,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.199151
+AUD-3182df8e,ACT-065edeb4,TXN-1318,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.199242
+AUD-78c33273,ACT-e8d77968,TXN-1319,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.199375
+AUD-14f65dc7,ACT-348f2d37,TXN-1320,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.199497
+AUD-cecd33b6,ACT-d373ccec,TXN-1321,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.199601
+AUD-7f969c9d,ACT-5b820253,TXN-1322,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.199700
+AUD-960a469f,ACT-41f67441,TXN-1323,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.199816
+AUD-dafe6b71,ACT-c7a9436a,TXN-1324,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.199948
+AUD-5685d756,ACT-c2115821,TXN-1325,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.200043
+AUD-aac61be0,ACT-8a664e3c,TXN-1326,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.200129
+AUD-8bf98924,ACT-974aa9b7,TXN-1327,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.200226
+AUD-62bca873,ACT-caddc3e8,TXN-1328,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.200313
+AUD-c350999d,ACT-a3b4019b,TXN-1329,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.200417
+AUD-17dd88c7,ACT-da390bc4,TXN-1330,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.200508
+AUD-e21b81ee,ACT-d3adb547,TXN-1331,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.200594
+AUD-384c399c,ACT-2c15c5c2,TXN-1332,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.200681
+AUD-39b24987,ACT-b00e0e62,TXN-1333,PaymentAutomationAgent,Compliance Review,No action,Pending Approval,Refund Event,Skipped,2026-04-25T14:01:51.200766
+AUD-6d0e3d9a,ACT-30412afb,TXN-1334,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.200852
+AUD-0fcc3e64,ACT-32827872,TXN-1335,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.200938
+AUD-d52dd262,ACT-59fce13d,TXN-1336,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.201029
+AUD-c5b6d75a,ACT-c293db8e,TXN-1337,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.201116
+AUD-ed04d478,ACT-664c83ab,TXN-1338,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.201206
+AUD-7615529d,ACT-449cfa85,TXN-1339,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.201292
+AUD-e11b1bfa,ACT-67c7bf64,TXN-1340,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.201378
+AUD-ccc310ba,ACT-a284163a,TXN-1341,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.201463
+AUD-3149e5ef,ACT-1a32c440,TXN-1342,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.201549
+AUD-68ad7d90,ACT-88a907d8,TXN-1343,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.201634
+AUD-130981f4,ACT-98a88d1a,TXN-1344,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.201720
+AUD-5cc09f78,ACT-07be94cf,TXN-1345,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.201805
+AUD-c6d78689,ACT-f0053f11,TXN-1346,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.201890
+AUD-d02469cd,ACT-aa4ef5cd,TXN-1347,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.201979
+AUD-a9dfb127,ACT-ab375e3d,TXN-1348,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.202073
+AUD-b3b9fb3f,ACT-003527f2,TXN-1349,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.202175
+AUD-b99b4d7f,ACT-1185e24b,TXN-1350,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.202299
+AUD-08179540,ACT-b7cc92eb,TXN-1351,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.202387
+AUD-eafb84a6,ACT-a36ead52,TXN-1352,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.202478
+AUD-6c36739a,ACT-bbad4366,TXN-1353,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.202565
+AUD-81c7f2b2,ACT-49f318f0,TXN-1354,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.202662
+AUD-0e985c37,ACT-771ba3fc,TXN-1355,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.202754
+AUD-8b256cff,ACT-819db7af,TXN-1356,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.202846
+AUD-114e3a33,ACT-0d6b3084,TXN-1357,PaymentAutomationAgent,Flag for Investigation,No action,Pending Approval,Duplicate Transaction,Skipped,2026-04-25T14:01:51.202942
+AUD-e3e7e48f,ACT-0548b1d9,TXN-1358,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.203032
+AUD-1b72c561,ACT-4481c74b,TXN-1359,PaymentAutomationAgent,Compliance Review,No action,Pending Approval,Refund Event,Skipped,2026-04-25T14:01:51.203118
+AUD-6f9901c6,ACT-1733be09,TXN-1360,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.203208
+AUD-83c00ddd,ACT-6ae7f075,TXN-1361,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.203298
+AUD-9988cfb7,ACT-b58e2dcb,TXN-1362,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.203398
+AUD-aeae139a,ACT-656715da,TXN-1363,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.203489
+AUD-7254c343,ACT-e3f19821,TXN-1364,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.203580
+AUD-d7e6df61,ACT-ca92e94f,TXN-1365,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.203666
+AUD-78dd0676,ACT-a84c4d7b,TXN-1366,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.203756
+AUD-5d53754f,ACT-f93ea408,TXN-1367,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.203902
+AUD-120b1627,ACT-3c6edf68,TXN-1368,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.204046
+AUD-343f1c06,ACT-ab682618,TXN-1369,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.204148
+AUD-50c3f689,ACT-16c6cd38,TXN-1370,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.204252
+AUD-8fde4b77,ACT-da5901dc,TXN-1371,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.204343
+AUD-bddff879,ACT-8f88a5de,TXN-1372,PaymentAutomationAgent,Compliance Review,No action,Pending Approval,Refund Event,Skipped,2026-04-25T14:01:51.204439
+AUD-afb0709f,ACT-bc196a12,TXN-1373,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.204527
+AUD-eef94287,ACT-abe897d9,TXN-1374,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.204616
+AUD-42118583,ACT-6b443122,TXN-1375,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.204701
+AUD-c3ec3a12,ACT-f74ae315,TXN-1376,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.204787
+AUD-0b28774f,ACT-baa15502,TXN-1377,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.204881
+AUD-8073abfc,ACT-0cc90604,TXN-1378,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.204974
+AUD-0c4f3fd8,ACT-d20c6779,TXN-1379,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.205067
+AUD-7a5c2889,ACT-1b2f353c,TXN-1380,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.205151
+AUD-76603239,ACT-0f8d4f85,TXN-1381,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.205234
+AUD-0a2ae96d,ACT-0db1764a,TXN-1382,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.205318
+AUD-de9acaf8,ACT-608dd8a1,TXN-1383,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.205403
+AUD-5fb7aff3,ACT-7b553738,TXN-1384,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.205498
+AUD-87a3a3e4,ACT-4c2099fd,TXN-1385,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.205582
+AUD-fcf11c0d,ACT-54aabfb9,TXN-1386,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.205665
+AUD-310e569b,ACT-f4748745,TXN-1387,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.205753
+AUD-91555282,ACT-569f92cd,TXN-1388,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.205837
+AUD-d7b05062,ACT-1c64e6ca,TXN-1389,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.205923
+AUD-d57bfcec,ACT-050919f7,TXN-1390,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.206008
+AUD-1a39b2ba,ACT-c6d474a7,TXN-1391,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.206091
+AUD-1097a4a8,ACT-352e927b,TXN-1392,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.206175
+AUD-13c69ddb,ACT-dee11aba,TXN-1393,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.206267
+AUD-fcf691b9,ACT-ba7183e3,TXN-1394,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.206351
+AUD-05c4ab7b,ACT-5706eace,TXN-1395,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.206434
+AUD-d2208fe0,ACT-a4d6b587,TXN-1396,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.206517
+AUD-f673eb9c,ACT-44505349,TXN-1397,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.206607
+AUD-27cd474e,ACT-c0627a15,TXN-1398,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.206690
+AUD-491b9cba,ACT-ba04f9f6,TXN-1399,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.206773
+AUD-5a7c6f39,ACT-50f802a8,TXN-1400,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.206864
+AUD-74132ec3,ACT-63ef3137,TXN-1401,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.206949
+AUD-0c19a08e,ACT-39beff56,TXN-1402,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.207040
+AUD-4dfa1c03,ACT-38bdaa3c,TXN-1403,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.207124
+AUD-2f772d74,ACT-41aef961,TXN-1404,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.207208
+AUD-8801ea10,ACT-3ad68fb3,TXN-1405,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.207291
+AUD-ce78062e,ACT-7ec863a8,TXN-1406,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.207374
+AUD-8606aa82,ACT-13a7782d,TXN-1407,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.207464
+AUD-ec5ed53d,ACT-73eac18a,TXN-1408,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.207550
+AUD-63c213a7,ACT-236d3d87,TXN-1409,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.207634
+AUD-8b052ef8,ACT-291ae9ba,TXN-1410,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.207718
+AUD-df3ef4ee,ACT-1a7f4f48,TXN-1411,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.207801
+AUD-bfe50fe1,ACT-5c1dcad7,TXN-1412,PaymentAutomationAgent,Flag for Investigation,No action,Pending Approval,Duplicate Transaction,Skipped,2026-04-25T14:01:51.207885
+AUD-4846844d,ACT-303aa167,TXN-1413,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.207968
+AUD-e446e837,ACT-d62ee411,TXN-1414,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.208052
+AUD-17c52434,ACT-23d057eb,TXN-1415,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.208136
+AUD-a75bf842,ACT-cbc6b34d,TXN-1416,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.208234
+AUD-bae7b02a,ACT-0f73b2ad,TXN-1417,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.208319
+AUD-15b9d8d5,ACT-8b862812,TXN-1418,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.208402
+AUD-79ccae6c,ACT-93e03a6a,TXN-1419,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.208485
+AUD-e6da0864,ACT-728ac230,TXN-1420,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.208569
+AUD-5b2ac2bc,ACT-2b435474,TXN-1421,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.208654
+AUD-9c3a1975,ACT-44a09fc1,TXN-1422,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.208737
+AUD-df3298e6,ACT-e2685611,TXN-1423,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.208820
+AUD-a59706b4,ACT-03ee04af,TXN-1424,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.208903
+AUD-118ceeff,ACT-d914116e,TXN-1425,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.208992
+AUD-137e3c81,ACT-18a0a0da,TXN-1426,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.209082
+AUD-cd874cf3,ACT-75705142,TXN-1427,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.209183
+AUD-685e0b28,ACT-11d2c806,TXN-1428,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.209272
+AUD-2bfcec67,ACT-54d3d86c,TXN-1429,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.209355
+AUD-4ae304e6,ACT-fd4d95d0,TXN-1430,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.209438
+AUD-bd3a6309,ACT-43c0984a,TXN-1431,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.209522
+AUD-f473447d,ACT-1e47c20c,TXN-1432,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.209616
+AUD-89a44424,ACT-130fc322,TXN-1433,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.209708
+AUD-6b262260,ACT-8e2a4342,TXN-1434,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.209801
+AUD-1b9b9cd7,ACT-e75ab4cd,TXN-1435,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.209885
+AUD-4b8c764f,ACT-7e745e61,TXN-1436,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.209984
+AUD-a5784edc,ACT-5aaf765a,TXN-1437,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.210067
+AUD-aab63092,ACT-31408f2e,TXN-1438,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.210150
+AUD-accbf008,ACT-e033ebff,TXN-1439,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.210239
+AUD-33321bc1,ACT-0d26019d,TXN-1440,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.210345
+AUD-3b28f0a5,ACT-1d67fd92,TXN-1441,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.210429
+AUD-876c2fb8,ACT-72b54e5e,TXN-1442,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.210522
+AUD-a52a315b,ACT-3dc65af8,TXN-1443,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.210604
+AUD-090b75a6,ACT-ed8d479b,TXN-1444,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.210688
+AUD-dc5156e9,ACT-6a6cc54c,TXN-1445,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.210775
+AUD-72f945c9,ACT-3a6cfdb1,TXN-1446,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.210875
+AUD-302e054b,ACT-cb43e8e1,TXN-1447,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.210959
+AUD-62629570,ACT-cb664073,TXN-1448,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.211073
+AUD-71c43e8f,ACT-f7337c40,TXN-1449,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.211220
+AUD-f452b1e8,ACT-cd8af4e9,TXN-1450,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.211332
+AUD-2d0d0392,ACT-8713ca67,TXN-1451,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.211423
+AUD-1c624ddc,ACT-ef8e68ce,TXN-1452,PaymentAutomationAgent,Flag for Investigation,No action,Pending Approval,Duplicate Transaction,Skipped,2026-04-25T14:01:51.211521
+AUD-c44eff1d,ACT-d9c02625,TXN-1453,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.211605
+AUD-ce4c06f7,ACT-60241a5e,TXN-1454,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.211692
+AUD-1f9fbb97,ACT-7364b8c7,TXN-1455,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.211781
+AUD-08f2959f,ACT-a01cc4f8,TXN-1456,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.211864
+AUD-6d36bca6,ACT-938ed043,TXN-1457,PaymentAutomationAgent,Flag for Investigation,No action,Pending Approval,Duplicate Transaction,Skipped,2026-04-25T14:01:51.211948
+AUD-565356f5,ACT-85bdb46f,TXN-1458,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.212041
+AUD-0f476d2c,ACT-173d7e0e,TXN-1459,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.212125
+AUD-b067729a,ACT-e2781056,TXN-1460,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.212306
+AUD-7b57ecb2,ACT-161a586d,TXN-1461,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.212472
+AUD-3436254e,ACT-3fef3c01,TXN-1462,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.212605
+AUD-a96de224,ACT-8e9b924b,TXN-1463,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.212698
+AUD-e3b61c7c,ACT-4fa89a94,TXN-1464,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.212797
+AUD-4959c36d,ACT-857f3e0d,TXN-1465,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.212895
+AUD-aece7bd4,ACT-29c96046,TXN-1466,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.212981
+AUD-6dc2cbc6,ACT-e0967d2f,TXN-1467,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.213068
+AUD-7a29718a,ACT-faef102a,TXN-1468,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.213367
+AUD-a4ad090e,ACT-9d32602b,TXN-1469,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.213599
+AUD-a56f0cba,ACT-3e5980a2,TXN-1470,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.213697
+AUD-4aeebf72,ACT-1ce7a809,TXN-1471,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.213799
+AUD-0680ce64,ACT-191fc573,TXN-1472,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.213895
+AUD-83c8730b,ACT-d21e4697,TXN-1473,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.213982
+AUD-2e433226,ACT-b277ae79,TXN-1474,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.214102
+AUD-d68ac5e6,ACT-a2865138,TXN-1475,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.214281
+AUD-6fd2f79e,ACT-95ed27aa,TXN-1476,PaymentAutomationAgent,Compliance Review,No action,Pending Approval,Refund Event,Skipped,2026-04-25T14:01:51.214386
+AUD-7d17e2fa,ACT-bca83b6d,TXN-1477,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.214550
+AUD-745d0674,ACT-780d195d,TXN-1478,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.214727
+AUD-ebc7abba,ACT-39dc0c50,TXN-1479,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.214856
+AUD-63837eca,ACT-571536e0,TXN-1480,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.214968
+AUD-1b48a642,ACT-640cb7d9,TXN-1481,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.215053
+AUD-339447cf,ACT-40eae561,TXN-1482,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.215137
+AUD-80417776,ACT-ada343f4,TXN-1483,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.215228
+AUD-3a9ba804,ACT-fb676ba0,TXN-1484,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.215353
+AUD-fb05aa62,ACT-c604e49d,TXN-1485,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.215470
+AUD-2d8041b6,ACT-4679f005,TXN-1486,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.215582
+AUD-227e7b8f,ACT-3ac98ee0,TXN-1487,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.215671
+AUD-677d89a6,ACT-05d1b2b6,TXN-1488,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.215757
+AUD-60b44503,ACT-0a7d7f9a,TXN-1489,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.215844
+AUD-3a4150b7,ACT-4091ee09,TXN-1490,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.215928
+AUD-215190db,ACT-f96ef4d5,TXN-1491,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.216015
+AUD-9ec2f229,ACT-626daeaf,TXN-1492,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.216114
+AUD-4ba2bab9,ACT-4c956fae,TXN-1493,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.216202
+AUD-ec17bd68,ACT-93d4e03f,TXN-1494,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.216304
+AUD-a132971d,ACT-3fc43f5a,TXN-1495,PaymentAutomationAgent,No Action,No action,Auto-Approved,Normal,Skipped,2026-04-25T14:01:51.216389
+AUD-904249fb,ACT-fb944e21,TXN-1496,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.216480
+AUD-9a52bcf1,ACT-a3ac9830,TXN-1497,PaymentAutomationAgent,Require Manager Approval,No action,Pending Approval,High-Value Transaction,Skipped,2026-04-25T14:01:51.216572
+AUD-705db48c,ACT-f88f0bcd,TXN-1498,PaymentAutomationAgent,Flag for Investigation,No action,Pending Approval,Duplicate Transaction,Skipped,2026-04-25T14:01:51.216666
+AUD-29e8e334,ACT-2141d523,TXN-1499,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.216757
+AUD-4bd51dba,ACT-4c92e90a,TXN-1500,PaymentAutomationAgent,Retry Payment,Trigger payment retry workflow,Auto-Approved,Failed Payment,Completed,2026-04-25T14:01:51.216850
+AUD-4b2ad901,ACT-540a558b,TXN-1110,PaymentAutomationAgent,Flag for Investigation,No action,Pending Approval,Duplicate Transaction,Skipped,2026-04-25T14:01:51.216938
+AUD-58195822,ACT-f556396c,TXN-1084,PaymentAutomationAgent,Flag for Investigation,No action,Pending Approval,Duplicate Transaction,Skipped,2026-04-25T14:01:51.217028
+AUD-49f6d183,ACT-8a0b0150,TXN-1207,PaymentAutomationAgent,Flag for Investigation,No action,Pending Approval,Duplicate Transaction,Skipped,2026-04-25T14:01:51.217114
+AUD-f2e0fc25,ACT-2da4c340,TXN-1060,PaymentAutomationAgent,Flag for Investigation,No action,Pending Approval,Duplicate Transaction,Skipped,2026-04-25T14:01:51.217224
+AUD-372923f8,ACT-b5a8e153,TXN-1457,PaymentAutomationAgent,Flag for Investigation,No action,Pending Approval,Duplicate Transaction,Skipped,2026-04-25T14:01:51.217308
+AUD-431513d5,ACT-a6b62682,TXN-1498,PaymentAutomationAgent,Flag for Investigation,No action,Pending Approval,Duplicate Transaction,Skipped,2026-04-25T14:01:51.217398
+AUD-8f0b47ae,ACT-42a5348f,TXN-1452,PaymentAutomationAgent,Flag for Investigation,No action,Pending Approval,Duplicate Transaction,Skipped,2026-04-25T14:01:51.217483
+AUD-86af644b,ACT-a5b4ad20,TXN-1153,PaymentAutomationAgent,Flag for Investigation,No action,Pending Approval,Duplicate Transaction,Skipped,2026-04-25T14:01:51.217572
+AUD-08dc0f04,ACT-410df302,TXN-1412,PaymentAutomationAgent,Flag for Investigation,No action,Pending Approval,Duplicate Transaction,Skipped,2026-04-25T14:01:51.217658
+AUD-e5073807,ACT-827b068a,TXN-1357,PaymentAutomationAgent,Flag for Investigation,No action,Pending Approval,Duplicate Transaction,Skipped,2026-04-25T14:01:51.217746
